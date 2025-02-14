@@ -1,0 +1,335 @@
+---
+title: "Monitoring Assessment - Literature Corpus"
+author: Jessica Hetzer <jessica.hetzer@senckenberg.de> 
+format: html
+code-fold: true
+editor: visual
+editor_options: 
+  chunk_output_type: inline
+---
+
+```{r,  echo=FALSE, warning=FALSE, message=FALSE}
+
+#load packages
+Sys.setenv(openalexR.message = "suppressed")
+library(openalexR)
+library(jsonlite)
+library(DT)
+library(dplyr)
+
+
+```
+
+# Expanding core knowledge of authors
+
+In this report, we introduce a method to create a comprehensive literature corpus by tracing networks of cited knowledge. We start with **key references provided by the authors** and link them to additional metadata (using openalexR). From these initial references, the search is expanded to include related publications through a network-based approach (snowballing, using the oa_snowball() function). This results in a broader collection of highly relevant literature.
+
+Unlike standard keyword searches in databases like Web of Science, this approach builds a curated, up-to-date resource of key publications **directly related to the authors' field** and their chapters. The full corpus is saved and **can be filtered and searched,** as well as **explored interactively**, offering an intuitive way to browse and discover relevant research.
+
+## Chapter 1
+
+```{r}
+
+fn <- file.path(".", "data", "1_Chapter","chapter1_seed_works.rds")
+if (file.exists(fn)) {
+    key_works <- readRDS(fn)
+} else {
+    seeds <- fromJSON(file.path(".", "input", "1_Chapter","chapter1_seed.json"))
+    #seeds$DOI[is.na(seeds$DOI)]  <- seeds$URL[is.na(seeds$DOI)] 
+    key_works <- oa_fetch(
+        entity = "works",
+        doi=seeds$DOI[!is.na(seeds$DOI)],
+        verbose = TRUE
+    )
+    saveRDS(key_works, fn)
+}
+
+ids <- openalexR:::shorten_oaid(key_works$id)
+
+fn <- file.path(".", "data", "1_Chapter", "chapter1_snowball.rds")
+if (file.exists(fn)) {
+    snowball <- readRDS(fn)
+} else {
+    snowball <- oa_snowball(
+        identifier = ids,
+        verbose = TRUE
+    )
+    saveRDS(snowball, fn)
+}
+
+```
+
+Number of key references: 154
+
+Size of corpus: \~ 23,000
+
+*Please note that the following table is not complete yet. It is an intermediate product for demonstration purposes.*
+
+```{r, echo=FALSE, warning=FALSE}
+
+  snowball$nodes$author_short <- sapply(snowball$nodes$author, function(authors) {
+    if (is.data.frame(authors)) {
+      paste(authors$au_display_name[1], "et al.")
+    } else if (is.character(authors)) {
+      authors
+    } else {
+      NA_character_
+    }
+  })
+
+# Create key_data_df from the snowball object
+key_data_df <- data.frame(
+  Authors = snowball$nodes$author_short,
+  Year = snowball$nodes$publication_year,
+  Title = snowball$nodes$title,
+  Source = paste0(
+    '<a href="',
+    snowball$nodes$url,
+    '" target="_blank">',
+    snowball$nodes$url,
+    '</a>'
+  ),
+  #Is_Key = snowball$nodes$is_key,
+  stringsAsFactors = FALSE
+)
+
+# Display the filtered table using tableDT
+# Display the filtered data using DT
+datatable(
+  key_data_df,
+  escape = FALSE,
+  options = list(
+    pageLength = 10,
+    searchHighlight = TRUE,
+    dom = 'ftip'
+  )
+)
+```
+
+```{r, echo=FALSE, eval=FALSE}
+
+library(RColorBrewer)
+library(networkD3)
+library(dplyr)
+plot_snowball_interactive <- function(snowball, key_works, file = "interactive_graph_with_legend.html") {
+  networkData <- data.frame(
+    src = snowball$edges$from,
+    target = snowball$edges$to,
+    stringsAsFactors = FALSE
+  )
+  
+  nodes <- data.frame(
+    name = snowball$nodes$id,
+    author = snowball$nodes$author_short,
+    doi = snowball$nodes$doi,
+    nodesize = snowball$nodes$cited_by_count / (2024 - snowball$nodes$publication_year) * 0.5,
+    group = sapply(snowball$nodes$topics, function(x) {
+      if ("display_name" %in% colnames(x)) {
+        return(x$display_name[4])
+      } else {
+        return(NA)
+      }
+    }),
+    stringsAsFactors = FALSE
+  )
+  
+  nodes$group[is.na(nodes$group) | nodes$group == ""] <- "Unknown"
+  nodes$id <- 0:(nrow(nodes) - 1)
+  
+  edges <- networkData %>%
+    left_join(nodes, by = c("src" = "name")) %>%
+    select(-src, -author) %>%
+    rename(source = id) %>%
+    left_join(nodes, by = c("target" = "name")) %>%
+    select(-target, -author) %>%
+    rename(target = id) %>%
+    mutate(width = 1)
+  
+  nodes$oa_id <- nodes$name
+  nodes$name <- nodes$author
+  
+  unique_groups <- unique(nodes$group)
+  color_palette <- brewer.pal(min(length(unique_groups), 12), "Set3")
+  
+  ColourScale <- sprintf(
+    'd3.scaleOrdinal().domain(["%s"]).range(["%s"]);',
+    paste(unique_groups, collapse = '", "'),
+    paste(color_palette, collapse = '", "')
+  )
+  
+  openDOI <- "window.open(d.doi)"
+  
+  nwg <- forceNetwork(
+    Links = edges,
+    Nodes = nodes,
+    Source = "source",
+    Target = "target",
+    NodeID = "name",
+    Group = "group",
+    Value = "width",
+    opacity = 1,
+    zoom = TRUE,
+    colourScale = JS(ColourScale),
+    fontSize = 20,
+    legend = FALSE,
+    clickAction = openDOI
+  )
+  
+  nwg$x$nodes$doi <- nodes$doi
+  
+  # Create the legend HTML
+  legend_html <- paste0(
+    "<div style='margin: 20px 0;'>",
+    "<h3>Legend</h3>",
+    "<div style='display: flex; flex-wrap: wrap;'>"
+  )
+  
+  for (i in seq_along(unique_groups)) {
+    legend_html <- paste0(
+      legend_html,
+      "<div style='display: flex; align-items: center; margin-right: 15px; margin-bottom: 10px;'>",
+      "<div style='width: 20px; height: 20px; background:", color_palette[i], "; margin-right: 8px;'></div>",
+      "<span>", unique_groups[i], "</span>",
+      "</div>"
+    )
+  }
+  
+  legend_html <- paste0(legend_html, "</div></div>")
+  
+  # Save the graph with the legend
+  saveNetwork(nwg, file = file, selfcontained = TRUE)
+  
+  # Insert the legend into the saved HTML file
+  graph_html <- readLines(file)
+  insert_position <- grep("</body>", graph_html)[1] - 1
+  graph_html <- append(graph_html, legend_html, after = insert_position)
+  
+  writeLines(graph_html, file)
+  return(graph_html)
+ # message("Graph with legend saved as: ", file)
+}
+ 
+
+# fn <- file.path(".", "interactive_graph_with_legend.html")
+# if (file.exists(fn)) {
+#     key_works <- readRDS(fn)
+# } else {
+# # Example call
+plot_snowball_interactive(snowball, key_works)
+
+```
+
+## Chapter 2
+
+```{r, eval=FALSE}
+
+fn <- file.path(".", "data", "2_Chapter","chapter2_seed_works.rds")
+if (file.exists(fn)) {
+    key_works <- readRDS(fn)
+} else {
+    seeds <- fromJSON(file.path(".", "input", "2_Chapter","chapter2_seed.json"))
+    #seeds$DOI[is.na(seeds$DOI)]  <- seeds$URL[is.na(seeds$DOI)] 
+    key_works <- oa_fetch(
+        entity = "works",
+        doi=seeds$DOI[!is.na(seeds$DOI)],
+        verbose = TRUE
+    )
+    saveRDS(key_works, fn)
+}
+
+ids <- openalexR:::shorten_oaid(key_works$id)
+
+fn <- file.path(".", "data", "2_Chapter", "chapter2_snowball.rds")
+if (file.exists(fn)) {
+    snowball <- readRDS(fn)
+} else {
+    snowball <- oa_snowball(
+        identifier = ids,
+        verbose = TRUE
+    )
+    saveRDS(snowball, fn)
+}
+
+```
+
+Number of key references: 162
+
+Size of corpus: \~ 25,000
+
+## Chapter 3
+
+```{r, eval=FALSE}
+
+fn <- file.path(".", "data", "3_Chapter","chapter3_seed_works.rds")
+if (file.exists(fn)) {
+    key_works <- readRDS(fn)
+} else {
+    seeds_1 <- fromJSON(file.path(".", "input", "3_Chapter","chapter3_1_seed.json"))
+    seeds_2 <- fromJSON(file.path(".", "input", "3_Chapter","chapter3_2_seed.json"))
+    seeds <- append(seeds_1,seeds_2)
+    #seeds$DOI[is.na(seeds$DOI)]  <- seeds$URL[is.na(seeds$DOI)] 
+    key_works <- oa_fetch(
+        entity = "works",
+        doi=seeds$DOI[!is.na(seeds$DOI)],
+        verbose = TRUE
+    )
+    saveRDS(key_works, fn)
+}
+
+ids <- openalexR:::shorten_oaid(key_works$id)
+
+fn <- file.path(".", "data", "3_Chapter", "chapter3_snowball.rds")
+if (file.exists(fn)) {
+    snowball <- readRDS(fn)
+} else {
+    snowball <- oa_snowball(
+        identifier = ids,
+        verbose = TRUE
+    )
+    saveRDS(snowball, fn)
+}
+
+```
+
+Number of key references: 309
+
+Size of corpus: \~ 30,000-35,000
+
+## Chapter 4
+
+```{r,eval=FALSE}
+
+fn <- file.path(".", "data", "4_Chapter","chapter4_seed_works.rds")
+if (file.exists(fn)) {
+    key_works <- readRDS(fn)
+} else {
+    seeds <- fromJSON(file.path(".", "input", "4_Chapter","chapter4_seed.json"))
+    #seeds$DOI[is.na(seeds$DOI)]  <- seeds$URL[is.na(seeds$DOI)] 
+    key_works <- oa_fetch(
+        entity = "works",
+        doi=seeds$DOI[!is.na(seeds$DOI)],
+        verbose = TRUE
+    )
+    saveRDS(key_works, fn)
+}
+
+ids <- openalexR:::shorten_oaid(key_works$id)
+
+fn <- file.path(".", "data", "4_Chapter", "chapter4_snowball.rds")
+if (file.exists(fn)) {
+    snowball <- readRDS(fn)
+} else {
+    snowball <- oa_snowball(
+        identifier = ids,
+        verbose = TRUE
+    )
+    saveRDS(snowball, fn)
+}
+
+```
+
+Number of key references: 85
+
+Size of corpus: \~11,000
+
+## Combined corpus from all chapters of MTA

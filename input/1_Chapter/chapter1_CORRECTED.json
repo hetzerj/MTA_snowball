@@ -1,0 +1,7094 @@
+[
+	{
+		"id": "http://zotero.org/users/14518388/items/8XURSIYM",
+		"type": "report",
+		"language": "en",
+		"number": "6",
+		"page": "2",
+		"publisher": "Ministry of Natural Resources, Energy and Mining",
+		"title": "SIXTH NATIONAL REPORT TO THE CONVENTION ON BIOLOGICAL DIVERSITY",
+		"author": [
+			{
+				"family": "Malawi",
+				"given": "Government"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2019",
+					3
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/14518388/items/LSWANINP",
+		"type": "document",
+		"language": "en",
+		"note": "DOI: 10.1098/rstb.2022.0271.",
+		"title": "Monitoring Biodiversity Loss in Rapidly Changing Afrotropical Ecosystems: An Emerging Imperative for Governance and Research",
+		"author": [
+			{
+				"family": "Achieng",
+				"given": "A.O."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2023"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/14518388/items/ILLEGW2D",
+		"type": "book",
+		"event-place": "Access",
+		"language": "en",
+		"publisher": "IIED Indigenous Knowledge Publication",
+		"publisher-place": "Access",
+		"title": "International Institute for Environment and Development (IIED)",
+		"issued": {
+			"date-parts": [
+				[
+					"2024"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/14518388/items/64S2VQQQ",
+		"type": "article-journal",
+		"container-title": "Current Opinion in Environmental Sustainability",
+		"DOI": "10.1016/j.cosust.2019.12.006",
+		"language": "en",
+		"page": "8–20",
+		"title": "Working with indigenous, local, and scientific knowledge in assessments of nature and nature’s linkages with people",
+		"URL": "https://doi.org/10.1016/j.cosust.2019.12.006",
+		"volume": "43",
+		"author": [
+			{
+				"family": "Hill",
+				"given": "R."
+			},
+			{
+				"family": "Adem",
+				"given": "Ç."
+			},
+			{
+				"family": "Alangui",
+				"given": "W.V."
+			},
+			{
+				"family": "Molnár",
+				"given": "Z."
+			},
+			{
+				"family": "Aumeeruddy-Thomas",
+				"given": "Y."
+			},
+			{
+				"family": "Bridgewater",
+				"given": "P."
+			},
+			{
+				"family": "Xue",
+				"given": "D."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2020"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/14518388/items/ISB5ESIF",
+		"type": "report",
+		"genre": "USGS Report, 23.",
+		"language": "en",
+		"title": "Space-based Earth observation and ecosystem extent: Exploring opportunities",
+		"URL": "https://ceos.org/document_management/Publications/Publications-and-Key-Documents/Cross-Cutting/EETT%20White%20Paper%20V1.1%202023-12-04.pdf",
+		"author": [
+			{
+				"family": "Geller",
+				"given": "G."
+			},
+			{
+				"family": "Levick",
+				"given": "S."
+			},
+			{
+				"family": "Luque",
+				"given": "S."
+			},
+			{
+				"family": "Sayre",
+				"given": "R."
+			},
+			{
+				"family": "Brink",
+				"given": "A."
+			},
+			{
+				"family": "Coops",
+				"given": "N."
+			},
+			{
+				"family": "Viciano",
+				"given": "L."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2023"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/14518388/items/Y7PFVU4Q",
+		"type": "article-journal",
+		"container-title": "Nat Ecol Evol",
+		"DOI": "10.1038/s41559-021-01451-x",
+		"language": "en",
+		"page": "896–906",
+		"title": "Priority list of biodiversity metrics to observe from space",
+		"URL": "https://doi.org/10.1038/s41559-021-01451-x",
+		"volume": "5",
+		"author": [
+			{
+				"family": "Skidmore",
+				"given": "A.K."
+			},
+			{
+				"family": "Coops",
+				"given": "N.C."
+			},
+			{
+				"family": "Neinavaz",
+				"given": "E."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2021"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/14518388/items/APRNRASM",
+		"type": "article-journal",
+		"container-title": "Methods in Ecology and Evolution",
+		"DOI": "10.1111/2041-210X.12941.",
+		"language": "en",
+		"page": "1787–1798",
+		"title": "Measuring beta-diversity by remote sensing: a challenge for biodiversity monitoring",
+		"volume": "9",
+		"author": [
+			{
+				"family": "Rocchini",
+				"given": "D."
+			},
+			{
+				"family": "Luque",
+				"given": "S."
+			},
+			{
+				"family": "Pettorelli",
+				"given": "N."
+			},
+			{
+				"family": "Bastin",
+				"given": "L."
+			},
+			{
+				"family": "Doktor",
+				"given": "D."
+			},
+			{
+				"family": "Faedi",
+				"given": "N."
+			},
+			{
+				"family": "Feilhauer",
+				"given": "H."
+			},
+			{
+				"family": "Féret",
+				"given": "J.B."
+			},
+			{
+				"family": "Foody",
+				"given": "G.M."
+			},
+			{
+				"family": "Gavish",
+				"given": "Y."
+			},
+			{
+				"family": "Godinho",
+				"given": "S."
+			},
+			{
+				"family": "Kunin",
+				"given": "W.E."
+			},
+			{
+				"family": "Lausch",
+				"given": "A."
+			},
+			{
+				"family": "Leitao",
+				"given": "P.J."
+			},
+			{
+				"family": "Marcantonio",
+				"given": "M."
+			},
+			{
+				"family": "Neteler",
+				"given": "M."
+			},
+			{
+				"family": "Ricotta",
+				"given": "C."
+			},
+			{
+				"family": "Schmidtlein",
+				"given": "S."
+			},
+			{
+				"family": "Vihervaara",
+				"given": "P."
+			},
+			{
+				"family": "Wegmann",
+				"given": "M."
+			},
+			{
+				"family": "Nagendra",
+				"given": "H."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2018"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/14518388/items/IRS5C7DM",
+		"type": "article-journal",
+		"container-title": "Remote sensing of environment",
+		"language": "en",
+		"page": "111626",
+		"title": "Monitoring biodiversity in the Anthropocene using remote sensing in species distribution models",
+		"volume": "239",
+		"author": [
+			{
+				"family": "Randin",
+				"given": "C.F."
+			},
+			{
+				"family": "Ashcroft",
+				"given": "M.B."
+			},
+			{
+				"family": "Bolliger",
+				"given": "J."
+			},
+			{
+				"family": "Cavender-Bares",
+				"given": "J."
+			},
+			{
+				"family": "Coops",
+				"given": "N.C."
+			},
+			{
+				"family": "Dullinger",
+				"given": "S."
+			},
+			{
+				"family": "Payne",
+				"given": "D."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2020"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/14518388/items/B8VHSU7W",
+		"type": "article-journal",
+		"container-title": "Biodivers Conserv",
+		"DOI": "10.1007/s10531-021-02216-5",
+		"language": "en",
+		"page": "2617–2631",
+		"title": "Remote sensing of biodiversity: what to measure and monitor from space to species?",
+		"URL": "https://doi.org/10.1007/s10531-021-02216-5",
+		"volume": "30",
+		"author": [
+			{
+				"family": "Reddy",
+				"given": "C.S."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2021"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/14518388/items/IENFVYUX",
+		"type": "article-journal",
+		"container-title": "Nat Ecol Evol",
+		"DOI": "10.1038/s41559-022-01702-5",
+		"language": "en",
+		"page": "506–519",
+		"title": "Integrating remote sensing with ecology and evolution to advance biodiversity conservation",
+		"URL": "https://doi.org/10.1038/s41559-022-01702-5",
+		"volume": "6",
+		"author": [
+			{
+				"family": "Cavender-Bares",
+				"given": "J."
+			},
+			{
+				"family": "Schneider",
+				"given": "F.D."
+			},
+			{
+				"family": "Santos",
+				"given": "M.J."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2022"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/14518388/items/7UISVMZJ",
+		"type": "article-journal",
+		"container-title": "ICES Journal of Marine Science",
+		"DOI": "10.1093/icesjms/fsae041",
+		"issue": "ue 5",
+		"language": "en",
+		"note": "type: Pages 864–876,",
+		"title": "The social science side of marine biodiversity monitoring",
+		"URL": "https://doi.org/10.1093/icesjms/fsae041",
+		"volume": "81",
+		"author": [
+			{
+				"family": "Vadrot",
+				"given": "Alice B.M."
+			},
+			{
+				"family": "Wanneau",
+				"given": "Krystel"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2024",
+					7
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/14518388/items/T8GBBGSU",
+		"type": "article-journal",
+		"container-title": "Glob Change Biol",
+		"DOI": "10.1111/gcb.14108",
+		"language": "en",
+		"page": "242416–2433",
+		"title": "Essential ocean variables for global sustained observations of biodiversity and ecosystem changes",
+		"URL": "https//doi.org/10.1111/gcb.14108",
+		"volume": "2018",
+		"author": [
+			{
+				"family": "Miloslavich",
+				"given": "P."
+			},
+			{
+				"family": "Bax",
+				"given": "N.J."
+			},
+			{
+				"family": "Simmons",
+				"given": "S.E."
+			}
+		]
+	},
+	{
+		"id": "http://zotero.org/users/14518388/items/DKHEUPP6",
+		"type": "article-journal",
+		"container-title": "Nat Ecol Evol",
+		"DOI": "10.1038/s41559-017-0319-z",
+		"language": "pt",
+		"page": "1625–1634",
+		"title": "Planetary boundaries for a blue planet",
+		"URL": "https://doi.org/10.1038/s41559-017-0319-z",
+		"volume": "1",
+		"author": [
+			{
+				"family": "Nash",
+				"given": "K.L."
+			},
+			{
+				"family": "Cvitanovic",
+				"given": "C."
+			},
+			{
+				"family": "Fulton",
+				"given": "E.A."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2017"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/14518388/items/4W9M8NH6",
+		"type": "article-journal",
+		"container-title": "npj Ocean Sustain",
+		"DOI": "10.1038/s44183-024-00071-9",
+		"language": "en",
+		"page": "43",
+		"title": "Integrating the multiple perspectives of people and nature in place-based marine spatial planning",
+		"URL": "https://doi.org/10.1038/s44183-024-00071-9",
+		"volume": "3",
+		"author": [
+			{
+				"family": "Wedding",
+				"given": "L.M."
+			},
+			{
+				"family": "Pittman",
+				"given": "S.J."
+			},
+			{
+				"family": "Lepczyk",
+				"given": "C.A."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2024"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/14518388/items/S9539SE8",
+		"type": "article-journal",
+		"container-title": "npj Ocean Sustain",
+		"DOI": "10.1038/s44183-024-00073-7",
+		"language": "en",
+		"title": "Ecosystem services “on the move” as a nature-based solution for financing the Global Biodiversity Framework",
+		"URL": "https://doi.org/10.1038/s44183-024-00073-7",
+		"volume": "3, 38",
+		"author": [
+			{
+				"family": "Sequeira",
+				"given": "A.M.M."
+			},
+			{
+				"family": "Rashid Sumaila",
+				"given": "U."
+			},
+			{
+				"family": "Rogers",
+				"given": "A.A."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2024"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/14518388/items/DVN2N5JZ",
+		"type": "article-journal",
+		"container-title": "npj Urban Sustainability",
+		"DOI": "10.1038/s42949-024-00143-2",
+		"issue": "1",
+		"language": "en",
+		"page": "22",
+		"title": "Urban Nature Indexes tool offers comprehensive and flexible approach to monitoring urban ecological performance",
+		"URL": "https://doi.org/10.1038/s42949-024-00143-2",
+		"volume": "4",
+		"author": [
+			{
+				"family": "Pierce",
+				"given": "J.R."
+			},
+			{
+				"family": "Costadone",
+				"given": "L."
+			},
+			{
+				"family": "Mannetti",
+				"given": "L."
+			},
+			{
+				"family": "Morpurgo",
+				"given": "J."
+			},
+			{
+				"family": "Green",
+				"given": "C.E."
+			},
+			{
+				"family": "Halder",
+				"given": "M.D."
+			},
+			{
+				"family": "Hughes",
+				"given": "J."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2024"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/14518388/items/GB4PKYZT",
+		"type": "article-journal",
+		"container-title": "Biodiversity Science",
+		"issue": "10",
+		"language": "en",
+		"page": "1114",
+		"title": "Promoting diversity inventory and monitoring of birds through the camera-trapping network in China: Status, challenges and future outlook",
+		"volume": "25",
+		"author": [
+			{
+				"family": "Zhu",
+				"given": "S."
+			},
+			{
+				"family": "Duan",
+				"given": "F."
+			},
+			{
+				"family": "Li",
+				"given": "S."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2017"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/14518388/items/XJMJNSUK",
+		"type": "article-journal",
+		"container-title": "Journal of Ecology and Rural Environment",
+		"issue": "1",
+		"language": "en",
+		"page": "27–36",
+		"title": "Progress in Construction of China Butterfly Diversity Observation Network (China BON-Butterflies)[J",
+		"volume": "34",
+		"author": [
+			{
+				"family": "Fang-zhou",
+				"given": "M.A."
+			},
+			{
+				"family": "Hai-gen",
+				"given": "X.U."
+			},
+			{
+				"family": "Meng-meng",
+				"given": "C.H.E.N."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2018"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/14518388/items/P5I8B33K",
+		"type": "article-journal",
+		"container-title": "People and Nature",
+		"issue": "4",
+		"language": "en",
+		"page": "1119–1134",
+		"title": "Co‐production of nature's contributions to people: What evidence is out there?",
+		"URL": "https://doi.org/10.1002/pan3.10493",
+		"volume": "5",
+		"author": [
+			{
+				"family": "Kachler",
+				"given": "J."
+			},
+			{
+				"family": "Isaac",
+				"given": "R."
+			},
+			{
+				"family": "Martín‐López",
+				"given": "B."
+			},
+			{
+				"family": "Bonn",
+				"given": "A."
+			},
+			{
+				"family": "Felipe‐Lucia",
+				"given": "M.R."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2023"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/14518388/items/ZFV7ILNV",
+		"type": "article-journal",
+		"container-title": "Sustainability Science",
+		"DOI": "10.1007/s11625-022-01140-z",
+		"issue": "3",
+		"language": "en",
+		"page": "701–705",
+		"title": "Valuation of nature and nature’s contributions to people",
+		"volume": "17",
+		"author": [
+			{
+				"family": "Managi",
+				"given": "S."
+			},
+			{
+				"family": "Islam",
+				"given": "M."
+			},
+			{
+				"family": "Saito",
+				"given": "O."
+			},
+			{
+				"family": "Stenseke",
+				"given": "M."
+			},
+			{
+				"family": "Dziba",
+				"given": "L."
+			},
+			{
+				"family": "Lavorel",
+				"given": "S."
+			},
+			{
+				"family": "Hashimoto",
+				"given": "S."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2022"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/14518388/items/VV9B6UU3",
+		"type": "article-journal",
+		"container-title": "BioScience",
+		"language": "en",
+		"title": "Monitor social–ecological systems to achieve global goals for biodiversity and nature's contributions to people",
+		"volume": "biae133",
+		"author": [
+			{
+				"family": "Vári",
+				"given": "Á."
+			},
+			{
+				"family": "Gonzalez",
+				"given": "A."
+			},
+			{
+				"family": "Bennett",
+				"given": "E.M."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2025"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/14518388/items/MB6ME86K",
+		"type": "article-journal",
+		"container-title": "BioScience",
+		"DOI": "10.1093/biosci/biab021",
+		"language": "en",
+		"page": "484–502",
+		"title": "The Concept, Practice, Application, and Results of Locally Based Monitoring of the Environment",
+		"volume": "71",
+		"author": [
+			{
+				"literal": "Danielsen"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2021"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/14518388/items/9KMULPJV",
+		"type": "article-journal",
+		"container-title": "BioScience",
+		"DOI": "10.1093/biosci/biab018",
+		"language": "en",
+		"page": "467–483",
+		"title": "Connecting Top-Down and Bottom-Up Approaches in Environmental Observing",
+		"volume": "71",
+		"author": [
+			{
+				"literal": "Eicken"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2021"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/14518388/items/RKVJYR63",
+		"type": "article-journal",
+		"container-title": "Ecology and Society",
+		"DOI": "10.5751/ES-11503-250210",
+		"issue": "2",
+		"language": "en",
+		"title": "A review of Indigenous knowledge and participation in environmental monitoring",
+		"volume": "25",
+		"author": [
+			{
+				"literal": "Thompson"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2020"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/14518388/items/LGKVUFE2",
+		"type": "document",
+		"language": "es",
+		"note": "publisher-place: Brasília, GKNORONHA",
+		"title": "Monitoreo de la biodiversidad en América Latina: Panorama y recomendaciones para estructurar una iniciativa",
+		"author": [
+			{
+				"family": "Constantino",
+				"given": "P.A.L."
+			},
+			{
+				"family": "Cruz",
+				"given": "A.T."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2016"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/14518388/items/3JN58PIL",
+		"type": "chapter",
+		"container-title": "GESTIÓN Y POLÍTICA PÚBLICA",
+		"language": "es",
+		"note": "DOI: 10.29265/gypp.v31i2.1259",
+		"title": "¿Qué sabemos del monitoreo participativo en México? Propuesta conceptual desde la perspectiva socioecosistémica y revisión sistemática de literatura científica",
+		"author": [
+			{
+				"literal": "Perevochtchikova"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2022"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/14518388/items/WLZQYEGC",
+		"type": "article-journal",
+		"container-title": "Environ Evid",
+		"DOI": "10.1186/s13750-019-0181-3",
+		"issue": "36",
+		"language": "en",
+		"title": "Bridging Indigenous and science‐based knowledge in coastal and marine research, monitoring, and management in Canada",
+		"URL": "https://doi.org/10.1186/s13750-019-0181-3",
+		"volume": "8",
+		"author": [
+			{
+				"literal": "Alexander"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2019"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/14518388/items/J29WIL9F",
+		"type": "document",
+		"language": "en",
+		"title": "Assessing coverage of the Monitoring Framework of the Kunming-Montreal Global Biodiversity Framework and opportunities to fill gaps",
+		"URL": "https://doi.org/10.1101/2024.09.25.614896",
+		"author": [
+			{
+				"family": "Affinito",
+				"given": "S.H.M.Butchart"
+			},
+			{
+				"family": "Nicholson",
+				"given": "E."
+			},
+			{
+				"family": "Hirsch",
+				"given": "T."
+			},
+			{
+				"family": "Williams",
+				"given": "J.M."
+			},
+			{
+				"family": "Campbell",
+				"given": "J."
+			},
+			{
+				"family": "Ferrari",
+				"given": "M.F."
+			},
+			{
+				"family": "Gabay",
+				"given": "M."
+			},
+			{
+				"family": "Gorini",
+				"given": "L."
+			},
+			{
+				"family": "Stroil",
+				"given": "B.Kalamujic"
+			},
+			{
+				"family": "Kohsaka",
+				"given": "R."
+			},
+			{
+				"family": "Painter",
+				"given": "B."
+			},
+			{
+				"family": "Pinto",
+				"given": "J.C."
+			},
+			{
+				"family": "Scholz",
+				"given": "A.H."
+			},
+			{
+				"family": "Straza",
+				"given": "T.R.A."
+			},
+			{
+				"family": "Tshidada",
+				"given": "N."
+			},
+			{
+				"family": "Vallecillo",
+				"given": "S."
+			},
+			{
+				"family": "Widdicombe",
+				"given": "S."
+			},
+			{
+				"family": "Gonzalez",
+				"given": "A."
+			}
+		]
+	},
+	{
+		"id": "http://zotero.org/users/14518388/items/EJE8WQXT",
+		"type": "article-journal",
+		"container-title": "Nature",
+		"DOI": "10.1038/s41586-024-08458-x",
+		"language": "en",
+		"title": "Global meta-analysis shows action is needed to halt genetic diversity loss",
+		"URL": "https://doi.org/10.1038/s41586-024-08458-x",
+		"author": [
+			{
+				"family": "Shaw",
+				"given": "R.E."
+			},
+			{
+				"family": "Farquharson",
+				"given": "K.A."
+			},
+			{
+				"family": "Bruford",
+				"given": "M.W."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2025"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/14518388/items/6Z4NUG6J",
+		"type": "article-journal",
+		"container-title": "Diversity",
+		"DOI": "10.3390/d14100824",
+		"language": "en",
+		"page": "824",
+		"title": "Measuring the Impact of Conservation: The Growing Importance of Monitoring Fauna, Flora and Funga",
+		"URL": "https://doi.org/10.3390/d14100824",
+		"volume": "14",
+		"author": [
+			{
+				"family": "Stephenson",
+				"given": "P.J."
+			},
+			{
+				"family": "Londoño-Murcia",
+				"given": "M.C."
+			},
+			{
+				"family": "Borges",
+				"given": "P.A.V."
+			},
+			{
+				"family": "Claassens",
+				"given": "L."
+			},
+			{
+				"family": "Frisch-Nwakanma",
+				"given": "H."
+			},
+			{
+				"family": "Ling",
+				"given": "N."
+			},
+			{
+				"family": "McMullan-Fisher",
+				"given": "S."
+			},
+			{
+				"family": "Meeuwig",
+				"given": "J.J."
+			},
+			{
+				"family": "Unter",
+				"given": "K.M.M."
+			},
+			{
+				"family": "Walls",
+				"given": "J.L."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2022"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/14518388/items/SBN3UKQG",
+		"type": "article-journal",
+		"container-title": "Ecology and Society",
+		"language": "en",
+		"title": "A review of Indigenous knowledge and participation in environmental monitoring",
+		"URL": "https://doi.org/10.5751/ES-11503-250210",
+		"volume": "25",
+		"author": [
+			{
+				"family": "Thompson",
+				"given": "Kim-Ly"
+			},
+			{
+				"family": "Lantz",
+				"given": "Trevor"
+			},
+			{
+				"family": "Ban",
+				"given": "Natalie"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2020"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/14518388/items/DMD5TPI8",
+		"type": "article-journal",
+		"container-title": "J. Appl. Ecol",
+		"DOI": "10.1111/1365-2664.13705",
+		"language": "en",
+		"page": "1666–1676",
+		"title": "Working with Indigenous and local knowledge (ILK) in large-scale ecological assessments: reviewing the experience of the IPBES Global Assessment",
+		"volume": "57",
+		"author": [
+			{
+				"family": "McElwee",
+				"given": "P."
+			},
+			{
+				"family": "Fernández-Llamazares",
+				"given": "A."
+			},
+			{
+				"family": "Aumeeruddy-Thomas",
+				"given": "Y."
+			},
+			{
+				"family": "Babai",
+				"given": "D."
+			},
+			{
+				"family": "Bates",
+				"given": "P."
+			},
+			{
+				"family": "Galvin",
+				"given": "K."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2020"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/14518388/items/LD4PRXDM",
+		"type": "article-journal",
+		"container-title": "Nat Ecol Evol",
+		"DOI": "10.1038/s41559-017-0349-6",
+		"language": "en",
+		"page": "1798–1806",
+		"title": "Biocultural approaches to well-being and sustainability indicators across scales",
+		"URL": "https://doi.org/10.1038/s41559-017-0349-6",
+		"volume": "1",
+		"author": [
+			{
+				"family": "Sterling",
+				"given": "E.J."
+			},
+			{
+				"family": "Filardi",
+				"given": "C."
+			},
+			{
+				"family": "Toomey",
+				"given": "A."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2017"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/14518388/items/YQIQZKKN",
+		"type": "article-journal",
+		"container-title": "Gest. polít. pública [online",
+		"language": "es",
+		"page": "123–175",
+		"title": "¿Qué sabemos del monitoreo participativo en México?: Propuesta conceptual desde la perspectiva socioecosistémica y revisión sistemática de literatura científica",
+		"volume": "31, n.2",
+		"author": [
+			{
+				"family": "PEREVOCHTCHIKOVA",
+				"given": "María"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2022"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/14518388/items/NGWFWTMI",
+		"type": "article-journal",
+		"container-title": "Conservation Biology",
+		"issue": "1",
+		"language": "en",
+		"page": "13721",
+		"title": "A quantitative global review of species population monitoring",
+		"URL": "https://doi.org/10.1111/cobi.13721",
+		"volume": "36",
+		"author": [
+			{
+				"family": "Moussy",
+				"given": "C."
+			},
+			{
+				"family": "Burfield",
+				"given": "I.J."
+			},
+			{
+				"family": "Stephenson",
+				"given": "P.J."
+			},
+			{
+				"family": "Newton",
+				"given": "A.F.E."
+			},
+			{
+				"family": "Butchart",
+				"given": "S.H.M."
+			},
+			{
+				"family": "Sutherland",
+				"given": "W.J."
+			},
+			{
+				"family": "Gregory",
+				"given": "R.D."
+			},
+			{
+				"family": "McRae",
+				"given": "L."
+			},
+			{
+				"family": "Bubb",
+				"given": "P."
+			},
+			{
+				"family": "Roesler",
+				"given": "I."
+			},
+			{
+				"family": "Ursino",
+				"given": "C."
+			},
+			{
+				"family": "Wu",
+				"given": "Y."
+			},
+			{
+				"family": "Retief",
+				"given": "E.F."
+			},
+			{
+				"family": "Udin",
+				"given": "J.S."
+			},
+			{
+				"family": "Urazaliyev",
+				"given": "R."
+			},
+			{
+				"family": "Sanchez-Clavijo",
+				"given": "L.M."
+			},
+			{
+				"family": "Lartey",
+				"given": "E."
+			},
+			{
+				"family": "Donald",
+				"given": "P.F."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2022"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/14518388/items/WE99UMKT",
+		"type": "book",
+		"ISBN": "978-950-23-3006-8",
+		"language": "es",
+		"publisher": "Eudeba, Buenos Aires",
+		"title": "La bioindicación en el monitoreo y evaluación de los sistemas fluviales de la Argentina",
+		"author": [
+			{
+				"family": "Domínguez",
+				"given": "E."
+			},
+			{
+				"family": "Giorgi",
+				"given": "A."
+			},
+			{
+				"family": "Gómez",
+				"given": "N."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2020"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/14518388/items/XMX6TMVE",
+		"type": "document",
+		"language": "es",
+		"note": "DOI: 10.22323/3.07010802",
+		"title": "Red REMARCO: ciencia y comunicación en el abordaje de estresores marino-costeros",
+		"URL": "https://doi.org/10.22323/3.07010802",
+		"author": [
+			{
+				"family": "Brenes Alfaro",
+				"given": "L."
+			},
+			{
+				"family": "Carrasco Palma",
+				"given": "D."
+			}
+		]
+	},
+	{
+		"id": "http://zotero.org/users/14518388/items/IZEJPM6L",
+		"type": "article-journal",
+		"container-title": "ICES Journal of Marine Science",
+		"DOI": "https://doi.org/10.1093/icesjms/fsp294",
+		"issue": "4",
+		"language": "en",
+		"page": "692–716",
+		"title": "Using indicators for evaluating, comparing, and communicating the ecological status of exploited marine ecosystems. 2. Setting the scene",
+		"volume": "67",
+		"author": [
+			{
+				"family": "Shin",
+				"given": "Y.J."
+			},
+			{
+				"family": "Shannon",
+				"given": "L.J."
+			},
+			{
+				"family": "Bundy",
+				"given": "A."
+			},
+			{
+				"family": "Coll",
+				"given": "M."
+			},
+			{
+				"family": "Aydin",
+				"given": "K."
+			},
+			{
+				"family": "Bez",
+				"given": "N."
+			},
+			{
+				"family": "Cury",
+				"given": "P.M."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2010"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/14518388/items/JQDK6E6J",
+		"type": "document",
+		"language": "en",
+		"title": "Ecological indicators to capture the effects of fishing on biodiversityand conservation status of marine ecosystems",
+		"URL": "https://doi.org/10.1016/j.ecolind.2015.08.048",
+		"author": [
+			{
+				"family": "Coll",
+				"given": "M."
+			},
+			{
+				"family": "Shannon",
+				"given": "L.J."
+			},
+			{
+				"family": "Kleisner",
+				"given": "K.M."
+			},
+			{
+				"family": "Juan-Jordá",
+				"given": "M.J."
+			},
+			{
+				"family": "Bundy",
+				"given": "A."
+			},
+			{
+				"family": "Akoglu",
+				"given": "A.G."
+			},
+			{
+				"family": "Banaru",
+				"given": "D."
+			},
+			{
+				"family": "Boldt",
+				"given": "J.L."
+			},
+			{
+				"family": "Borges",
+				"given": "M.F."
+			},
+			{
+				"family": "Cook",
+				"given": "A."
+			},
+			{
+				"family": "Diallo",
+				"given": "I."
+			},
+			{
+				"family": "Fu",
+				"given": "C."
+			},
+			{
+				"family": "Fox",
+				"given": "C."
+			},
+			{
+				"family": "Gascuel",
+				"given": "D."
+			},
+			{
+				"family": "Gurney",
+				"given": "L.J."
+			},
+			{
+				"family": "Hattab",
+				"given": "T."
+			},
+			{
+				"family": "Heymans",
+				"given": "J.J."
+			},
+			{
+				"family": "Jouffre",
+				"given": "D."
+			},
+			{
+				"family": "Knight",
+				"given": "B.R."
+			},
+			{
+				"family": "Kucukavsar",
+				"given": "S."
+			},
+			{
+				"family": "Large",
+				"given": "S.I."
+			},
+			{
+				"family": "Lynam",
+				"given": "C."
+			},
+			{
+				"family": "Machias",
+				"given": "A."
+			},
+			{
+				"family": "Marshall",
+				"given": "K.N."
+			},
+			{
+				"family": "Masski",
+				"given": "H."
+			},
+			{
+				"family": "Ojaveer",
+				"given": "H."
+			},
+			{
+				"family": "Piroddi",
+				"given": "C."
+			},
+			{
+				"family": "Tam",
+				"given": "J."
+			},
+			{
+				"family": "Thiao",
+				"given": "D."
+			},
+			{
+				"family": "Thiaw",
+				"given": "M."
+			},
+			{
+				"family": "Torres",
+				"given": "M.A."
+			},
+			{
+				"family": "Travers-Trolet",
+				"given": "M."
+			},
+			{
+				"family": "Tsagarakis",
+				"given": "K."
+			},
+			{
+				"family": "Tuck",
+				"given": "I."
+			},
+			{
+				"family": "Meeren",
+				"given": "G.I."
+			},
+			{
+				"family": "Yemane",
+				"given": "D."
+			},
+			{
+				"family": "Zador",
+				"given": "S.G."
+			},
+			{
+				"family": "Shin",
+				"given": "Y.-J."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2016"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/14518388/items/DDDPWRFM",
+		"type": "article-journal",
+		"container-title": "Ecological Indicators",
+		"language": "en",
+		"page": "16–28",
+		"title": "Making ecological indicators management ready: assessing the specificity, sensitivity, and threshold response of ecological indicators",
+		"URL": "https://doi.org/10.1016/j.ecolind.2019.05.055",
+		"volume": "105",
+		"author": [
+			{
+				"family": "Fu",
+				"given": "C."
+			},
+			{
+				"family": "Xu",
+				"given": "Y."
+			},
+			{
+				"family": "Bundy",
+				"given": "A."
+			},
+			{
+				"family": "Grüss",
+				"given": "A."
+			},
+			{
+				"family": "Coll",
+				"given": "M."
+			},
+			{
+				"family": "Heymans",
+				"given": "J.J."
+			},
+			{
+				"family": "Shin",
+				"given": "Y.J."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2019"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/14518388/items/AXVHIFI5",
+		"type": "article-journal",
+		"container-title": "Marine Policy",
+		"DOI": "10.1016/j.marpol.2012.04.012.",
+		"language": "en",
+		"title": "Remment ter Hofstede, Monitoring and evaluation of spatially managed areas: A generic framework for implementation of ecosystem based marine management and its application",
+		"URL": "https://doi.org/10.1016/j.marpol.2012.04.012.",
+		"volume": "37",
+		"author": [
+			{
+				"family": "Stelzenmüller",
+				"given": "Vanessa"
+			},
+			{
+				"family": "Breen",
+				"given": "Patricia"
+			},
+			{
+				"family": "Stamford",
+				"given": "Tammy"
+			},
+			{
+				"family": "Thomsen",
+				"given": "Frank"
+			},
+			{
+				"family": "Badalamenti",
+				"given": "Fabio"
+			},
+			{
+				"family": "Borja",
+				"given": "Ángel"
+			},
+			{
+				"family": "Buhl-Mortensen",
+				"given": "Lene"
+			},
+			{
+				"family": "Carlstöm",
+				"given": "Julia"
+			},
+			{
+				"family": "D’Anna",
+				"given": "Giovanni"
+			},
+			{
+				"family": "Dankers",
+				"given": "Norbert"
+			},
+			{
+				"family": "Degraer",
+				"given": "Steven"
+			},
+			{
+				"family": "Dujin",
+				"given": "Mike"
+			},
+			{
+				"family": "Fiorentino",
+				"given": "Fabio"
+			},
+			{
+				"family": "Galparsoro",
+				"given": "Ibon"
+			},
+			{
+				"family": "Giakoumi",
+				"given": "Sylvaine"
+			},
+			{
+				"family": "Gristina",
+				"given": "Michele"
+			},
+			{
+				"family": "Johnson",
+				"given": "Kate"
+			},
+			{
+				"family": "Jones",
+				"given": "Peter J.S."
+			},
+			{
+				"family": "Katsanevakis",
+				"given": "Stelios"
+			},
+			{
+				"family": "Knittweis",
+				"given": "Leyla"
+			},
+			{
+				"family": "Kyriazi",
+				"given": "Zacharoula"
+			},
+			{
+				"family": "Pipitone",
+				"given": "Carlo"
+			},
+			{
+				"family": "Piwowarczyk",
+				"given": "Joanna"
+			},
+			{
+				"family": "Rabaut",
+				"given": "Marijn"
+			},
+			{
+				"family": "Sørensen",
+				"given": "Thomas K."
+			},
+			{
+				"family": "Dalfsen",
+				"given": "Jan"
+			},
+			{
+				"family": "Vassilopoulou",
+				"given": "Vassiliki"
+			},
+			{
+				"family": "Fernández",
+				"given": "Tomás Vega"
+			},
+			{
+				"family": "Vincx",
+				"given": "Magda"
+			},
+			{
+				"family": "Vöge",
+				"given": "Sandra"
+			},
+			{
+				"family": "Weber",
+				"given": "Anke"
+			},
+			{
+				"family": "Wijkmark",
+				"given": "Nicklas"
+			},
+			{
+				"family": "Jak",
+				"given": "Robbert"
+			},
+			{
+				"family": "Qiu",
+				"given": "Wanfei"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2013"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/14518388/items/GYY2LK23",
+		"type": "article-journal",
+		"container-title": "Nature Ecology & Evolution",
+		"DOI": "10.1038/s41559-024-02566-7.",
+		"issue": "12",
+		"language": "en",
+		"page": "2163–71",
+		"title": "Progress in Developing and Operationalizing the Monitoring Framework of the Global Biodiversity Framework»",
+		"URL": "https://doi.org/10.1038/s41559-024-02566-7.",
+		"volume": "8",
+		"author": [
+			{
+				"family": "Affinito",
+				"given": "Flavio"
+			},
+			{
+				"family": "Williams",
+				"given": "James M."
+			},
+			{
+				"family": "Campbell",
+				"given": "Jillian E."
+			},
+			{
+				"family": "Londono",
+				"given": "Maria C."
+			},
+			{
+				"family": "Gonzalez",
+				"given": "Andrew"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2024"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/14518388/items/GS4SK46F",
+		"type": "article-journal",
+		"container-title": "Current Opinion in Environmental Sustainability",
+		"DOI": "10.1016/j.cosust.2022.101152.",
+		"language": "en",
+		"page": "101152",
+		"title": "Essential Ecosystem Service Variables for Monitoring Progress towards Sustainability»",
+		"URL": "https://doi.org/10.1016/j.cosust.2022.101152.",
+		"volume": "54",
+		"author": [
+			{
+				"family": "Balvanera",
+				"given": "Patricia"
+			},
+			{
+				"family": "Brauman",
+				"given": "Kate A."
+			},
+			{
+				"family": "Cord",
+				"given": "Anna F."
+			},
+			{
+				"family": "Drakou",
+				"given": "Evangelia G."
+			},
+			{
+				"family": "Geijzendorffer",
+				"given": "Ilse R."
+			},
+			{
+				"family": "Karp",
+				"given": "Daniel S."
+			},
+			{
+				"family": "Martín-López",
+				"given": "Berta"
+			},
+			{
+				"family": "Mwampamba",
+				"given": "Tuyeni H."
+			},
+			{
+				"family": "Schröter",
+				"given": "Matthias"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2022",
+					2
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/14518388/items/D8E3BZKR",
+		"type": "article-journal",
+		"container-title": "Proceedings of the National Academy of Sciences 117",
+		"DOI": "10.1073/pnas.2010473117.",
+		"issue": "22. desember 2020",
+		"language": "en",
+		"page": "32799–805",
+		"title": "Global trends in nature’s contributions to people»",
+		"URL": "https://doi.org/10.1073/pnas.2010473117.",
+		"volume": "51",
+		"author": [
+			{
+				"family": "Brauman",
+				"given": "Kate A."
+			},
+			{
+				"family": "Garibaldi",
+				"given": "Lucas A."
+			},
+			{
+				"family": "Polasky",
+				"given": "Stephen"
+			},
+			{
+				"family": "Aumeeruddy-Thomas",
+				"given": "Yildiz"
+			},
+			{
+				"family": "Brancalion",
+				"given": "Pedro H.S."
+			},
+			{
+				"family": "DeClerck",
+				"given": "Fabrice"
+			},
+			{
+				"family": "Jacob",
+				"given": "Ute"
+			},
+			{
+				"literal": "mfl"
+			}
+		]
+	},
+	{
+		"id": "http://zotero.org/users/14518388/items/MHQPQHJH",
+		"type": "article-journal",
+		"container-title": "Biological Conservation",
+		"DOI": "10.1016/j.biocon.2016.09.006.",
+		"language": "en",
+		"page": "252–55",
+		"title": "Taking Stock of Nature: Essential Biodiversity Variables Explained»",
+		"URL": "https://doi.org/10.1016/j.biocon.2016.09.006.",
+		"volume": "213",
+		"author": [
+			{
+				"family": "Brummitt",
+				"given": "Neil"
+			},
+			{
+				"family": "Regan",
+				"given": "Eugenie C."
+			},
+			{
+				"family": "Weatherdon",
+				"given": "Lauren V."
+			},
+			{
+				"family": "Martin",
+				"given": "Corinne S."
+			},
+			{
+				"family": "Geijzendorffer",
+				"given": "Ilse R."
+			},
+			{
+				"family": "Rocchini",
+				"given": "Duccio"
+			},
+			{
+				"family": "Gavish",
+				"given": "Yoni"
+			},
+			{
+				"family": "Haase",
+				"given": "Peter"
+			},
+			{
+				"family": "Marsh",
+				"given": "Charles J."
+			},
+			{
+				"family": "Schmeller",
+				"given": "Dirk S."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2017",
+					9
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/14518388/items/BMECKGI6",
+		"type": "article-journal",
+		"container-title": "Annual Review of Environment and Resources",
+		"DOI": "10.1146/annurev-environ-121522-045106.",
+		"issue": "Volume 49",
+		"language": "en",
+		"page": "673–709",
+		"title": "Global Metrics for Terrestrial Biodiversity»",
+		"URL": "https://doi.org/10.1146/annurev-environ-121522-045106.",
+		"volume": "49",
+		"author": [
+			{
+				"family": "Burgess",
+				"given": "Neil D."
+			},
+			{
+				"family": "Ali",
+				"given": "Natasha"
+			},
+			{
+				"family": "Bedford",
+				"given": "Jacob"
+			},
+			{
+				"family": "Bhola",
+				"given": "Nina"
+			},
+			{
+				"family": "Brooks",
+				"given": "Sharon"
+			},
+			{
+				"family": "Cierna",
+				"given": "Alena"
+			},
+			{
+				"family": "Correa",
+				"given": "Roberto"
+			},
+			{
+				"literal": "mfl"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2024",
+					10,
+					18
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/14518388/items/BFKZEL74",
+		"type": "article-journal",
+		"container-title": "Sustainability Science",
+		"DOI": "10.1007/s11625-019-00716-6.",
+		"issue": "5 (1",
+		"language": "en",
+		"page": "1267–82",
+		"title": "Understanding the Diversity of Values of “Nature’s Contributions to People”: Insights from the IPBES Assessment of Europe and Central Asia»",
+		"URL": "https://doi.org/10.1007/s11625-019-00716-6.",
+		"volume": "14",
+		"author": [
+			{
+				"family": "Christie",
+				"given": "Mike"
+			},
+			{
+				"family": "Martín-López",
+				"given": "Berta"
+			},
+			{
+				"family": "Church",
+				"given": "Andrew"
+			},
+			{
+				"family": "Siwicka",
+				"given": "Ewa"
+			},
+			{
+				"family": "Szymonczyk",
+				"given": "Pawel"
+			},
+			{
+				"family": "Sauterel",
+				"given": "Jasmin Mena"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2019",
+					9
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/14518388/items/DEEVAVZP",
+		"type": "article-journal",
+		"container-title": "Ecological Indicators",
+		"DOI": "10.1016/j.ecolind.2021.108376.",
+		"language": "en",
+		"page": "108376",
+		"title": "Selection Criteria for Ecosystem Condition Indicators»",
+		"URL": "https://doi.org/10.1016/j.ecolind.2021.108376.",
+		"volume": "133",
+		"author": [
+			{
+				"family": "Czúcz",
+				"given": "Bálint"
+			},
+			{
+				"family": "Keith",
+				"given": "Heather"
+			},
+			{
+				"family": "Maes",
+				"given": "Joachim"
+			},
+			{
+				"family": "Driver",
+				"given": "Amanda"
+			},
+			{
+				"family": "Jackson",
+				"given": "Bethanna"
+			},
+			{
+				"family": "Nicholson",
+				"given": "Emily"
+			},
+			{
+				"family": "Kiss",
+				"given": "Márton"
+			},
+			{
+				"family": "Obst",
+				"given": "Carl"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2021"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/14518388/items/KXWE342W",
+		"type": "article-journal",
+		"container-title": "Conservation Biology",
+		"DOI": "10.1111/j.1523-1739.2008.01063.x.",
+		"issue": "1",
+		"language": "en",
+		"page": "31–42",
+		"title": "Local Participation in Natural Resource Monitoring: A Characterization of Approaches»",
+		"URL": "https://doi.org/10.1111/j.1523-1739.2008.01063.x.",
+		"volume": "23",
+		"author": [
+			{
+				"family": "Danielsen",
+				"given": "Finn"
+			},
+			{
+				"family": "Burgess",
+				"given": "Neil D."
+			},
+			{
+				"family": "Balmford",
+				"given": "Andrew"
+			},
+			{
+				"family": "Donald",
+				"given": "Paul F."
+			},
+			{
+				"family": "Funder",
+				"given": "Mikkel"
+			},
+			{
+				"family": "Jones",
+				"given": "Julia P.G."
+			},
+			{
+				"family": "Alviola",
+				"given": "Philip"
+			},
+			{
+				"literal": "mfl"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2009",
+					2
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/14518388/items/AVQTEF7L",
+		"type": "article-journal",
+		"container-title": "Annual Review of Environment and Resources",
+		"DOI": "10.1146/annurev-environ-012220-022325.",
+		"issue": "Volume 47",
+		"language": "en",
+		"page": "637–70",
+		"title": "Community Monitoring of Natural Resource Systems and the Environment»",
+		"URL": "https://doi.org/10.1146/annurev-environ-012220-022325.",
+		"volume": "47",
+		"author": [
+			{
+				"family": "Danielsen",
+				"given": "Finn"
+			},
+			{
+				"family": "Eicken",
+				"given": "Hajo"
+			},
+			{
+				"family": "Funder",
+				"given": "Mikkel"
+			},
+			{
+				"family": "Johnson",
+				"given": "Noor"
+			},
+			{
+				"family": "Lee",
+				"given": "Olivia"
+			},
+			{
+				"family": "Theilade",
+				"given": "Ida"
+			},
+			{
+				"family": "Argyriou",
+				"given": "Dimitrios"
+			},
+			{
+				"family": "Burgess",
+				"given": "Neil D."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2022",
+					10,
+					17
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/14518388/items/RZDV4V3D",
+		"type": "article-journal",
+		"container-title": "Ocean Science",
+		"DOI": "10.5194/os-20-217-2024.",
+		"issue": "21. februar 2024",
+		"language": "en",
+		"page": "217–39",
+		"title": "Linking Satellites to Genes with Machine Learning to Estimate Phytoplankton Community Structure from Space»",
+		"URL": "https://doi.org/10.5194/os-20-217-2024.",
+		"volume": "1",
+		"author": [
+			{
+				"family": "Hourany",
+				"given": "El"
+			},
+			{
+				"family": "Roy",
+				"given": "Juan Pierella Karlusich"
+			},
+			{
+				"family": "Zinger",
+				"given": "Lucie"
+			},
+			{
+				"family": "Loisel",
+				"given": "Hubert"
+			},
+			{
+				"family": "Levy",
+				"given": "Marina"
+			},
+			{
+				"family": "Bowler",
+				"given": "Chris"
+			}
+		]
+	},
+	{
+		"id": "http://zotero.org/users/14518388/items/867AMAED",
+		"type": "article-journal",
+		"container-title": "Current Opinion in Environmental Sustainability, Sustainability governance and transformation",
+		"DOI": "10.1016/j.cosust.2019.05.001.",
+		"issue": "1. juni 2019",
+		"language": "en",
+		"page": "86–94",
+		"title": "Ecosystem services and nature’s contribution to people: negotiating diverse values and trade-offs in land systems»",
+		"URL": "https://doi.org/10.1016/j.cosust.2019.05.001.",
+		"volume": "38",
+		"author": [
+			{
+				"family": "Ellis",
+				"given": "Erle C."
+			},
+			{
+				"family": "Pascual",
+				"given": "Unai"
+			},
+			{
+				"family": "Mertz",
+				"given": "Ole"
+			}
+		]
+	},
+	{
+		"id": "http://zotero.org/users/14518388/items/XDXPCNL7",
+		"type": "article-journal",
+		"container-title": "Journal of Applied Ecology",
+		"DOI": "10.1111/1365-2664.12417.",
+		"issue": "1. oktober 2016",
+		"language": "en",
+		"page": "1341–50",
+		"title": "Bridging the Gap between Biodiversity Data and Policy Reporting Needs: An Essential Biodiversity Variables Perspective»",
+		"URL": "https://doi.org/10.1111/1365-2664.12417.",
+		"volume": "5",
+		"author": [
+			{
+				"family": "Geijzendorffer",
+				"given": "Ilse R."
+			},
+			{
+				"family": "Regan",
+				"given": "Eugenie C."
+			},
+			{
+				"family": "Pereira",
+				"given": "Henrique M."
+			},
+			{
+				"family": "Brotons",
+				"given": "Lluis"
+			},
+			{
+				"family": "Brummitt",
+				"given": "Neil"
+			},
+			{
+				"family": "Gavish",
+				"given": "Yoni"
+			},
+			{
+				"family": "Haase",
+				"given": "Peter"
+			},
+			{
+				"literal": "mfl"
+			}
+		]
+	},
+	{
+		"id": "http://zotero.org/users/14518388/items/QQNEDLVV",
+		"type": "article-journal",
+		"container-title": "Science",
+		"DOI": "10.1126/science.adg1506.",
+		"issue": "16. desember 2022",
+		"language": "en",
+		"page": "1147–1147",
+		"title": "Monitor biodiversity for action»",
+		"URL": "https://doi.org/10.1126/science.adg1506.",
+		"volume": "6625",
+		"author": [
+			{
+				"family": "Gonzalez",
+				"given": "Andrew"
+			},
+			{
+				"family": "Londoño",
+				"given": "Maria Cecilia"
+			}
+		]
+	},
+	{
+		"id": "http://zotero.org/users/14518388/items/7XP7EDTK",
+		"type": "article-journal",
+		"container-title": "Nature Ecology & Evolution",
+		"DOI": "10.1038/s41559-023-02171-0.",
+		"issue": "12",
+		"language": "en",
+		"page": "1947–52",
+		"title": "A Global Biodiversity Observing System to Unite Monitoring and Guide Action»",
+		"URL": "https://doi.org/10.1038/s41559-023-02171-0.",
+		"volume": "7",
+		"author": [
+			{
+				"family": "Gonzalez",
+				"given": "Andrew"
+			},
+			{
+				"family": "Vihervaara",
+				"given": "Petteri"
+			},
+			{
+				"family": "Balvanera",
+				"given": "Patricia"
+			},
+			{
+				"family": "Bates",
+				"given": "Amanda E."
+			},
+			{
+				"family": "Bayraktarov",
+				"given": "Elisa"
+			},
+			{
+				"family": "Bellingham",
+				"given": "Peter J."
+			},
+			{
+				"family": "Bruder",
+				"given": "Andreas"
+			},
+			{
+				"literal": "mfl"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2023"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/14518388/items/D6VQL6EU",
+		"type": "article-journal",
+		"container-title": "Science",
+		"DOI": "10.1126/science.abd7926.",
+		"issue": "15. januar 2021",
+		"language": "en",
+		"page": "239–41",
+		"title": "Tracking, Targeting, and Conserving Soil Biodiversity»",
+		"URL": "https://doi.org/10.1126/science.abd7926.",
+		"volume": "6526",
+		"author": [
+			{
+				"family": "Guerra",
+				"given": "Carlos A."
+			},
+			{
+				"family": "Bardgett",
+				"given": "Richard D."
+			},
+			{
+				"family": "Caon",
+				"given": "Lucrezia"
+			},
+			{
+				"family": "Crowther",
+				"given": "Thomas W."
+			},
+			{
+				"family": "Delgado-Baquerizo",
+				"given": "Manuel"
+			},
+			{
+				"family": "Montanarella",
+				"given": "Luca"
+			},
+			{
+				"family": "Navarro",
+				"given": "Laetitia M."
+			},
+			{
+				"literal": "mfl"
+			}
+		]
+	},
+	{
+		"id": "http://zotero.org/users/14518388/items/ZS8FJ747",
+		"type": "article-journal",
+		"container-title": "Nature Ecology & Evolution",
+		"DOI": "10.1038/s41559-022-01812-0.",
+		"issue": "9",
+		"language": "en",
+		"page": "1262–70",
+		"title": "A Global Horizon Scan of Issues Impacting Marine and Coastal Biodiversity Conservation»",
+		"URL": "https://doi.org/10.1038/s41559-022-01812-0.",
+		"volume": "6",
+		"author": [
+			{
+				"family": "Herbert-Read",
+				"given": "James E."
+			},
+			{
+				"family": "Thornton",
+				"given": "Ann"
+			},
+			{
+				"family": "Amon",
+				"given": "Diva J."
+			},
+			{
+				"family": "Birchenough",
+				"given": "Silvana N.R."
+			},
+			{
+				"family": "Côté",
+				"given": "Isabelle M."
+			},
+			{
+				"family": "Dias",
+				"given": "Maria P."
+			},
+			{
+				"family": "Godley",
+				"given": "Brendan J."
+			},
+			{
+				"literal": "mfl"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2022",
+					9
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/14518388/items/F43WKDB4",
+		"type": "article-journal",
+		"container-title": "One Earth",
+		"DOI": "10.1016/j.oneear.2021.06.009.",
+		"issue": "7",
+		"language": "en",
+		"page": "910–15",
+		"title": "Nature’s Contributions to People: Weaving Plural Perspectives»",
+		"URL": "https://doi.org/10.1016/j.oneear.2021.06.009.",
+		"volume": "4",
+		"author": [
+			{
+				"family": "Hill",
+				"given": "Rosemary"
+			},
+			{
+				"family": "Díaz",
+				"given": "Sandra"
+			},
+			{
+				"family": "Pascual",
+				"given": "Unai"
+			},
+			{
+				"family": "Stenseke",
+				"given": "Marie"
+			},
+			{
+				"family": "Molnár",
+				"given": "Zsolt"
+			},
+			{
+				"literal": "Velden"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2021",
+					7
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/14518388/items/YBAFP4AP",
+		"type": "article-journal",
+		"container-title": "Biological Reviews",
+		"DOI": "10.1111/brv.12852.",
+		"issue": "4",
+		"language": "en",
+		"page": "1511–38",
+		"title": "Global Genetic Diversity Status and Trends: Towards a Suite of Essential Biodiversity Variables (EBVs) for Genetic Composition»",
+		"URL": "https://doi.org/10.1111/brv.12852.",
+		"volume": "97",
+		"author": [
+			{
+				"family": "Hoban",
+				"given": "Sean"
+			},
+			{
+				"family": "Archer",
+				"given": "Frederick I."
+			},
+			{
+				"family": "Bertola",
+				"given": "Laura D."
+			},
+			{
+				"family": "Bragg",
+				"given": "Jason G."
+			},
+			{
+				"family": "Breed",
+				"given": "Martin F."
+			},
+			{
+				"family": "Bruford",
+				"given": "Michael W."
+			},
+			{
+				"family": "Coleman",
+				"given": "Melinda A."
+			},
+			{
+				"literal": "mfl"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2022"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/14518388/items/EZPA2CMN",
+		"type": "book",
+		"event-place": "Ankara, Turkiye",
+		"language": "jv",
+		"note": "DOI: 10.4060/cb8370en.",
+		"publisher": "FAO; MAF",
+		"publisher-place": "Ankara, Turkiye",
+		"title": "Guidelines for Biodiversity Monitoring",
+		"URL": "https://doi.org/10.4060/cb8370en.",
+		"author": [
+			{
+				"family": "Jungmeier",
+				"given": "M."
+			},
+			{
+				"family": "Jungmeier",
+				"given": "M."
+			},
+			{
+				"family": "Arpa",
+				"given": "N.Y."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2022"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/14518388/items/4XXSBE48",
+		"type": "article-journal",
+		"container-title": "Nature Ecology & Evolution",
+		"DOI": "10.1038/s41559-018-0667-3.",
+		"issue": "10",
+		"language": "en",
+		"page": "1531–40",
+		"title": "Towards Global Data Products of Essential Biodiversity Variables on Species Traits»",
+		"URL": "https://doi.org/10.1038/s41559-018-0667-3.",
+		"volume": "2",
+		"author": [
+			{
+				"family": "Kissling",
+				"given": "W.Daniel"
+			},
+			{
+				"family": "Walls",
+				"given": "Ramona"
+			},
+			{
+				"family": "Bowser",
+				"given": "Anne"
+			},
+			{
+				"family": "Jones",
+				"given": "Matthew O."
+			},
+			{
+				"family": "Kattge",
+				"given": "Jens"
+			},
+			{
+				"family": "Agosti",
+				"given": "Donat"
+			},
+			{
+				"family": "Amengual",
+				"given": "Josep"
+			},
+			{
+				"literal": "mfl"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2018",
+					9,
+					17
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/14518388/items/IHBJZAJZ",
+		"type": "article-journal",
+		"container-title": "International Journal of Digital Earth",
+		"DOI": "10.1080/17538947.2019.1636490.",
+		"issue": "2",
+		"language": "en",
+		"page": "158–65",
+		"title": "Towards integrated essential variables for sustainability»",
+		"URL": "https://doi.org/10.1080/17538947.2019.1636490.",
+		"volume": "13",
+		"author": [
+			{
+				"family": "Lehmann",
+				"given": "Anthony"
+			},
+			{
+				"family": "Masò",
+				"given": "Joan"
+			},
+			{
+				"family": "Nativi",
+				"given": "Stefano"
+			},
+			{
+				"family": "Giuliani",
+				"given": "Gregory"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2020",
+					2,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/14518388/items/HQQK7W2M",
+		"type": "article-journal",
+		"container-title": "Global Change Biology",
+		"DOI": "10.1111/gcb.14108.",
+		"issue": "6",
+		"language": "en",
+		"page": "2416–33",
+		"title": "Essential Ocean Variables for Global Sustained Observations of Biodiversity and Ecosystem Changes»",
+		"URL": "https://doi.org/10.1111/gcb.14108.",
+		"volume": "24",
+		"author": [
+			{
+				"family": "Miloslavich",
+				"given": "Patricia"
+			},
+			{
+				"family": "Bax",
+				"given": "Nicholas J."
+			},
+			{
+				"family": "Simmons",
+				"given": "Samantha E."
+			},
+			{
+				"family": "Klein",
+				"given": "Eduardo"
+			},
+			{
+				"family": "Appeltans",
+				"given": "Ward"
+			},
+			{
+				"family": "Aburto-Oropeza",
+				"given": "Octavio"
+			},
+			{
+				"family": "Garcia",
+				"given": "Melissa Andersen"
+			},
+			{
+				"literal": "mfl"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2018"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/14518388/items/NS3WR93R",
+		"type": "article-journal",
+		"container-title": "Nature Ecology & Evolution",
+		"DOI": "10.1038/s41559-017-0319-z.",
+		"issue": "11",
+		"language": "en",
+		"page": "1625–34",
+		"title": "Planetary Boundaries for a Blue Planet»",
+		"URL": "https://doi.org/10.1038/s41559-017-0319-z.",
+		"volume": "1",
+		"author": [
+			{
+				"family": "Nash",
+				"given": "Kirsty L."
+			},
+			{
+				"family": "Cvitanovic",
+				"given": "Christopher"
+			},
+			{
+				"family": "Fulton",
+				"given": "Elizabeth A."
+			},
+			{
+				"family": "Halpern",
+				"given": "Benjamin S."
+			},
+			{
+				"family": "Milner-Gulland",
+				"given": "E.J."
+			},
+			{
+				"family": "Watson",
+				"given": "Reg A."
+			},
+			{
+				"family": "Blanchard",
+				"given": "Julia L."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2017",
+					11
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/14518388/items/LGHALQPH",
+		"type": "chapter",
+		"container-title": "Current Opinion in Environmental Sustainability, Part A: Environmental change issues • Part B: Open Issue",
+		"language": "en",
+		"note": "DOI: 10.1016/j.cosust.2018.02.005.",
+		"page": "158–69",
+		"title": "Monitoring biodiversity change through effective global coordination»",
+		"URL": "https://doi.org/10.1016/j.cosust.2018.02.005.",
+		"volume": "Part III, 29",
+		"author": [
+			{
+				"family": "Navarro",
+				"given": "Laetitia M."
+			},
+			{
+				"family": "Fernández",
+				"given": "Néstor"
+			},
+			{
+				"family": "Guerra",
+				"given": "Carlos"
+			},
+			{
+				"family": "Rob Guralnick",
+				"given": "W.Daniel Kissling"
+			},
+			{
+				"family": "Londoño",
+				"given": "Maria Cecilia"
+			},
+			{
+				"family": "Muller-Karger",
+				"given": "Frank"
+			},
+			{
+				"literal": "mfl"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2017"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/14518388/items/KGGZPPGL",
+		"type": "article-journal",
+		"container-title": "Nature",
+		"DOI": "10.1038/s41586-023-06406-9.",
+		"issue": "7975",
+		"language": "en",
+		"page": "813–23",
+		"title": "Diverse Values of Nature for Sustainability»",
+		"URL": "https://doi.org/10.1038/s41586-023-06406-9.",
+		"volume": "620",
+		"author": [
+			{
+				"family": "Pascual",
+				"given": "Unai"
+			},
+			{
+				"family": "Balvanera",
+				"given": "Patricia"
+			},
+			{
+				"family": "Anderson",
+				"given": "Christopher B."
+			},
+			{
+				"family": "Chaplin-Kramer",
+				"given": "Rebecca"
+			},
+			{
+				"family": "Christie",
+				"given": "Michael"
+			},
+			{
+				"family": "González-Jiménez",
+				"given": "David"
+			},
+			{
+				"family": "Martin",
+				"given": "Adrian"
+			},
+			{
+				"literal": "mfl"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2023",
+					8
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/14518388/items/J4KMYGNC",
+		"type": "chapter",
+		"container-title": "Current Opinion in Environmental Sustainability, Open issue",
+		"language": "en",
+		"note": "DOI: 10.1016/j.cosust.2016.12.006.",
+		"page": "26–27",
+		"title": "Valuing nature’s contributions to people: the IPBES approach»",
+		"URL": "https://doi.org/10.1016/j.cosust.2016.12.006.",
+		"volume": "part II",
+		"author": [
+			{
+				"family": "Pascual",
+				"given": "Unai"
+			},
+			{
+				"family": "Balvanera",
+				"given": "Patricia"
+			},
+			{
+				"family": "Díaz",
+				"given": "Sandra"
+			},
+			{
+				"family": "Pataki",
+				"given": "György"
+			},
+			{
+				"family": "Roth",
+				"given": "Eva"
+			},
+			{
+				"family": "Stenseke",
+				"given": "Marie"
+			},
+			{
+				"family": "Watson",
+				"given": "Robert T."
+			},
+			{
+				"literal": "mfl"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2017",
+					6,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/14518388/items/A8LINYFN",
+		"type": "article-journal",
+		"container-title": "Science",
+		"DOI": "10.1126/science.1229931.",
+		"issue": "6117",
+		"language": "en",
+		"page": "277–78",
+		"title": "Essential Biodiversity Variables»",
+		"URL": "https://doi.org/10.1126/science.1229931.",
+		"volume": "339",
+		"author": [
+			{
+				"family": "Pereira",
+				"given": "H.M."
+			},
+			{
+				"family": "Ferrier",
+				"given": "S."
+			},
+			{
+				"family": "Walters",
+				"given": "M."
+			},
+			{
+				"family": "Geller",
+				"given": "G.N."
+			},
+			{
+				"family": "Jongman",
+				"given": "R.H.G."
+			},
+			{
+				"family": "Scholes",
+				"given": "R.J."
+			},
+			{
+				"family": "Bruford",
+				"given": "M.W."
+			},
+			{
+				"literal": "mfl"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2013",
+					1,
+					18
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/14518388/items/7UHKRF48",
+		"type": "article-journal",
+		"container-title": "Remote Sensing in Ecology and Conservation",
+		"DOI": "10.1002/rse2.15.",
+		"issue": "3",
+		"language": "en",
+		"page": "122–31",
+		"title": "Framing the Concept of Satellite Remote Sensing Essential Biodiversity Variables: Challenges and Future Directions»",
+		"URL": "https://doi.org/10.1002/rse2.15.",
+		"volume": "2",
+		"author": [
+			{
+				"family": "Pettorelli",
+				"given": "Nathalie"
+			},
+			{
+				"family": "Wegmann",
+				"given": "Martin"
+			},
+			{
+				"family": "Skidmore",
+				"given": "Andrew"
+			},
+			{
+				"family": "Mücher",
+				"given": "Sander"
+			},
+			{
+				"family": "Dawson",
+				"given": "Terence P."
+			},
+			{
+				"family": "Fernandez",
+				"given": "Miguel"
+			},
+			{
+				"family": "Lucas",
+				"given": "Richard"
+			},
+			{
+				"literal": "mfl"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2016"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/14518388/items/MT58GRZJ",
+		"type": "article-journal",
+		"container-title": "BioScience",
+		"DOI": "10.1093/biosci/biw092.",
+		"issue": "1. oktober 2016",
+		"language": "so",
+		"page": "807–12",
+		"title": "Saving the World’s Terrestrial Megafauna»",
+		"URL": "https://doi.org/10.1093/biosci/biw092.",
+		"volume": "10",
+		"author": [
+			{
+				"family": "Ripple",
+				"given": "William J."
+			},
+			{
+				"family": "Chapron",
+				"given": "Guillaume"
+			},
+			{
+				"family": "López-Bao",
+				"given": "José Vicente"
+			},
+			{
+				"family": "Durant",
+				"given": "Sarah M."
+			},
+			{
+				"family": "Macdonald",
+				"given": "David W."
+			},
+			{
+				"family": "Lindsey",
+				"given": "Peter A."
+			},
+			{
+				"family": "Bennett",
+				"given": "Elizabeth L."
+			},
+			{
+				"literal": "mfl"
+			}
+		]
+	},
+	{
+		"id": "http://zotero.org/users/14518388/items/LWYSXVXX",
+		"type": "article-journal",
+		"container-title": "Npj Ocean Sustainability",
+		"DOI": "10.1038/s44183-024-00078-2.",
+		"issue": "23. september 2024",
+		"language": "en",
+		"page": "1–11",
+		"title": "Rethinking Sustainability of Marine Fisheries for a Fast-Changing Planet»",
+		"URL": "https://doi.org/10.1038/s44183-024-00078-2.",
+		"volume": "1",
+		"author": [
+			{
+				"family": "Roberts",
+				"given": "Callum"
+			},
+			{
+				"family": "Béné",
+				"given": "Christophe"
+			},
+			{
+				"family": "Bennett",
+				"given": "Nathan"
+			},
+			{
+				"family": "Boon",
+				"given": "James S."
+			},
+			{
+				"family": "Cheung",
+				"given": "William W.L."
+			},
+			{
+				"family": "Cury",
+				"given": "Philippe"
+			},
+			{
+				"family": "Defeo",
+				"given": "Omar"
+			},
+			{
+				"literal": "mfl"
+			}
+		]
+	},
+	{
+		"id": "http://zotero.org/users/14518388/items/F7QRWTYD",
+		"type": "article-journal",
+		"container-title": "Science",
+		"DOI": "10.1126/science.aaw1313",
+		"issue": "4. oktober 2019",
+		"language": "en",
+		"page": "120–24",
+		"title": "Decline of the North American avifauna",
+		"URL": "https://doi.org/10.1126/science.aaw1313",
+		"volume": "6461",
+		"author": [
+			{
+				"family": "Rosenberg",
+				"given": "Kenneth V."
+			},
+			{
+				"family": "Dokter",
+				"given": "Adriaan M."
+			},
+			{
+				"family": "Blancher",
+				"given": "Peter J."
+			},
+			{
+				"family": "Sauer",
+				"given": "John R."
+			},
+			{
+				"family": "Smith",
+				"given": "Adam C."
+			},
+			{
+				"family": "Smith",
+				"given": "Paul A."
+			},
+			{
+				"family": "Stanton",
+				"given": "Jessica C."
+			},
+			{
+				"literal": "mfl"
+			}
+		]
+	},
+	{
+		"id": "http://zotero.org/users/14518388/items/952P9V7T",
+		"type": "article-journal",
+		"container-title": "Surveys in Geophysics",
+		"DOI": "10.1007/s10712-023-09805-9.",
+		"issue": "1. oktober 2023",
+		"language": "en",
+		"page": "1287–1308",
+		"title": "Ocean Biology Studied from Space»",
+		"URL": "https://doi.org/10.1007/s10712-023-09805-9.",
+		"volume": "5",
+		"author": [
+			{
+				"family": "Sathyendranath",
+				"given": "Shubha"
+			},
+			{
+				"family": "Brewin",
+				"given": "Robert J.W."
+			},
+			{
+				"family": "Ciavatta",
+				"given": "Stefano"
+			},
+			{
+				"family": "Jackson",
+				"given": "Tom"
+			},
+			{
+				"family": "Kulk",
+				"given": "Gemma"
+			},
+			{
+				"family": "Jönsson",
+				"given": "Bror"
+			},
+			{
+				"family": "Vicente",
+				"given": "Victor Martinez"
+			},
+			{
+				"family": "Platt",
+				"given": "Trevor"
+			}
+		]
+	},
+	{
+		"id": "http://zotero.org/users/14518388/items/Z8JSBA2U",
+		"type": "article-journal",
+		"container-title": "Frontiers in Ecology and the Environment",
+		"DOI": "10.1002/fee.2792.",
+		"issue": "8",
+		"language": "en",
+		"page": "2792",
+		"title": "Monitoring Ecosystem Services with Essential Ecosystem Service Variables»",
+		"URL": "https://doi.org/10.1002/fee.2792.",
+		"volume": "22",
+		"author": [
+			{
+				"family": "Schwantes",
+				"given": "Amanda M."
+			},
+			{
+				"family": "Firkowski",
+				"given": "Carina Rauen"
+			},
+			{
+				"family": "Affinito",
+				"given": "Flavio"
+			},
+			{
+				"family": "Rodriguez",
+				"given": "Peter S."
+			},
+			{
+				"family": "Fortin",
+				"given": "Marie‐Josée"
+			},
+			{
+				"family": "Gonzalez",
+				"given": "Andrew"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2024",
+					10
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/14518388/items/9GD79A82",
+		"type": "article-journal",
+		"container-title": "Npj Ocean Sustainability",
+		"DOI": "10.1038/s44183-024-00073-7.",
+		"issue": "1",
+		"language": "en",
+		"page": "1–7",
+		"title": "Ecosystem Services “on the Move” as a Nature-Based Solution for Financing the Global Biodiversity Framework»",
+		"URL": "https://doi.org/10.1038/s44183-024-00073-7.",
+		"volume": "3",
+		"author": [
+			{
+				"family": "Sequeira",
+				"given": "Ana M.M."
+			},
+			{
+				"family": "Sumaila",
+				"given": "U.Rashid"
+			},
+			{
+				"family": "Rogers",
+				"given": "Abbie A."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2024",
+					8,
+					10
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/14518388/items/22F36FKR",
+		"type": "article-journal",
+		"container-title": "Nature Ecology & Evolution",
+		"DOI": "10.1038/s41559-021-01451-x.",
+		"issue": "7",
+		"language": "en",
+		"page": "896–906",
+		"title": "Priority List of Biodiversity Metrics to Observe from Space»",
+		"URL": "https://doi.org/10.1038/s41559-021-01451-x.",
+		"volume": "5",
+		"author": [
+			{
+				"family": "Skidmore",
+				"given": "Andrew K."
+			},
+			{
+				"family": "Coops",
+				"given": "Nicholas C."
+			},
+			{
+				"family": "Neinavaz",
+				"given": "Elnaz"
+			},
+			{
+				"family": "Ali",
+				"given": "Abebe"
+			},
+			{
+				"family": "Schaepman",
+				"given": "Michael E."
+			},
+			{
+				"family": "Marc Paganini",
+				"given": "W.Daniel Kissling"
+			},
+			{
+				"literal": "mfl"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2021",
+					7
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/14518388/items/SY54MUBB",
+		"type": "article-journal",
+		"container-title": "Diversity",
+		"DOI": "10.3390/d14100824.",
+		"issue": "10",
+		"language": "en",
+		"page": "824",
+		"title": "Measuring the Impact of Conservation: The Growing Importance of Monitoring Fauna, Flora and Funga»",
+		"URL": "https://doi.org/10.3390/d14100824.",
+		"volume": "14",
+		"author": [
+			{
+				"family": "Stephenson",
+				"given": "P.J."
+			},
+			{
+				"family": "Londoño-Murcia",
+				"given": "Maria Cecilia"
+			},
+			{
+				"family": "Borges",
+				"given": "Paulo A.V."
+			},
+			{
+				"family": "Claassens",
+				"given": "Louw"
+			},
+			{
+				"family": "Frisch-Nwakanma",
+				"given": "Heidrun"
+			},
+			{
+				"family": "Ling",
+				"given": "Nicholas"
+			},
+			{
+				"family": "McMullan-Fisher",
+				"given": "Sapphire"
+			},
+			{
+				"literal": "mfl"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2022",
+					9,
+					30
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/14518388/items/3B7CCAQL",
+		"type": "article-journal",
+		"container-title": "Current Opinion in Environmental Sustainability",
+		"DOI": "10.1016/j.cosust.2016.12.005.",
+		"language": "en",
+		"page": "17–25",
+		"title": "Weaving Knowledge Systems in IPBES, CBD and beyond—Lessons Learned for Sustainability»",
+		"URL": "https://doi.org/10.1016/j.cosust.2016.12.005.",
+		"volume": "26–27",
+		"author": [
+			{
+				"family": "Tengö",
+				"given": "Maria"
+			},
+			{
+				"family": "Hill",
+				"given": "Rosemary"
+			},
+			{
+				"family": "Malmer",
+				"given": "Pernilla"
+			},
+			{
+				"family": "Raymond",
+				"given": "Christopher M."
+			},
+			{
+				"family": "Spierenburg",
+				"given": "Marja"
+			},
+			{
+				"family": "Danielsen",
+				"given": "Finn"
+			},
+			{
+				"family": "Elmqvist",
+				"given": "Thomas"
+			},
+			{
+				"family": "Folke",
+				"given": "Carl"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2017",
+					6
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/14518388/items/RDGQGCJG",
+		"type": "article-journal",
+		"container-title": "Science Advances",
+		"DOI": "10.1126/sciadv.aay9969.",
+		"issue": "11",
+		"language": "en",
+		"page": "9969",
+		"title": "Integrating climate adaptation and biodiversity conservation in the global ocean»",
+		"URL": "https://doi.org/10.1126/sciadv.aay9969.",
+		"volume": "5",
+		"author": [
+			{
+				"family": "Tittensor",
+				"given": "Derek P."
+			},
+			{
+				"family": "Beger",
+				"given": "Maria"
+			},
+			{
+				"family": "Boerder",
+				"given": "Kristina"
+			},
+			{
+				"family": "Boyce",
+				"given": "Daniel G."
+			},
+			{
+				"family": "Cavanagh",
+				"given": "Rachel D."
+			},
+			{
+				"family": "Cosandey-Godin",
+				"given": "Aurelie"
+			},
+			{
+				"family": "Crespo",
+				"given": "Guillermo Ortuño"
+			},
+			{
+				"literal": "mfl"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2019",
+					11,
+					27
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/14518388/items/VPZ8LEG6",
+		"type": "article-journal",
+		"container-title": "ICES Journal of Marine Science",
+		"DOI": "10.1093/icesjms/fsae041.",
+		"issue": "5",
+		"language": "en",
+		"page": "864–76",
+		"title": "The social science side of marine biodiversity monitoring»",
+		"URL": "https://doi.org/10.1093/icesjms/fsae041.",
+		"volume": "81",
+		"author": [
+			{
+				"family": "Vadrot",
+				"given": "Alice B.M."
+			},
+			{
+				"family": "Wanneau",
+				"given": "Krystel"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2024",
+					7,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/14518388/items/6DWVZPES",
+		"type": "article-journal",
+		"container-title": "Journal of Environmental Management",
+		"DOI": "10.1016/j.jenvman.2017.05.029.",
+		"language": "en",
+		"page": "13–20",
+		"title": "Category Mistakes: A Barrier to Effective Environmental Management»",
+		"URL": "https://doi.org/10.1016/j.jenvman.2017.05.029.",
+		"volume": "199",
+		"author": [
+			{
+				"family": "Wallace",
+				"given": "Ken J."
+			},
+			{
+				"family": "Jago",
+				"given": "Mark"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2017",
+					9,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/14518388/items/XJ6EKW5S",
+		"type": "article-journal",
+		"container-title": "Npj Ocean Sustainability",
+		"DOI": "10.1038/s44183-024-00071-9.",
+		"issue": "1",
+		"language": "en",
+		"page": "1–15",
+		"title": "Integrating the Multiple Perspectives of People and Nature in Place-Based Marine Spatial Planning»",
+		"URL": "https://doi.org/10.1038/s44183-024-00071-9.",
+		"volume": "3",
+		"author": [
+			{
+				"family": "Wedding",
+				"given": "L.M."
+			},
+			{
+				"family": "Pittman",
+				"given": "S.J."
+			},
+			{
+				"family": "Lepczyk",
+				"given": "C.A."
+			},
+			{
+				"family": "Parrain",
+				"given": "C."
+			},
+			{
+				"family": "Puniwai",
+				"given": "N."
+			},
+			{
+				"family": "Boyle",
+				"given": "J.S."
+			},
+			{
+				"family": "Goldberg",
+				"given": "E.G."
+			},
+			{
+				"literal": "mfl"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2024",
+					9,
+					10
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/14518388/items/SGCAM2NK",
+		"type": "article-journal",
+		"container-title": "Npj Urban Sustainability",
+		"DOI": "10.1038/s42949-024-00188-3.",
+		"issue": "1",
+		"language": "en",
+		"page": "50",
+		"title": "How Will Ai Transform Urban Observing, Sensing, Imaging, and Mapping?",
+		"URL": "https://doi.org/10.1038/s42949-024-00188-3.",
+		"volume": "4",
+		"author": [
+			{
+				"family": "Weng",
+				"given": "Qihao"
+			},
+			{
+				"family": "Li",
+				"given": "Zhiwei"
+			},
+			{
+				"family": "Cao",
+				"given": "Yinxia"
+			},
+			{
+				"family": "Lu",
+				"given": "Xiaoyan"
+			},
+			{
+				"family": "Gamba",
+				"given": "Paolo"
+			},
+			{
+				"family": "Zhu",
+				"given": "Xiaoxiang"
+			},
+			{
+				"family": "Xu",
+				"given": "Yonghao"
+			},
+			{
+				"literal": "mfl"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2024",
+					11,
+					28
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/14518388/items/KJAGGXLG",
+		"type": "article-journal",
+		"container-title": "Ecological indicators",
+		"DOI": "10.1016/j.ecolind.2011.10.009",
+		"language": "en",
+		"page": "31–41",
+		"title": "Three hundred ways to assess Europe's surface waters: an almost complete overview of biological methods to implement the Water Framework Directive",
+		"volume": "18",
+		"author": [
+			{
+				"family": "Birk",
+				"given": "Sebastian"
+			},
+			{
+				"family": "Bonne",
+				"given": "Wendy"
+			},
+			{
+				"family": "Borja",
+				"given": "Angel"
+			},
+			{
+				"family": "Brucet",
+				"given": "Sandra"
+			},
+			{
+				"family": "Courrat",
+				"given": "Anne"
+			},
+			{
+				"family": "Poikane",
+				"given": "Sandra"
+			},
+			{
+				"family": "Solimini",
+				"given": "Angelo"
+			},
+			{
+				"family": "Bund",
+				"given": "Wouter"
+			},
+			{
+				"family": "Zampoukas",
+				"given": "Nikolaos"
+			},
+			{
+				"family": "Hering",
+				"given": "Daniel"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2012"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/14518388/items/8LIATAF6",
+		"type": "chapter",
+		"container-title": "The ecological status of European Rivers: Evaluation and intercalibration of assessment methods",
+		"language": "en",
+		"page": "3–29",
+		"title": "The STAR project: context, objectives and approaches",
+		"URL": "https://doi.org/10.1007/978-1-4020-5493-8_2",
+		"author": [
+			{
+				"family": "Furse",
+				"given": "Mike"
+			},
+			{
+				"family": "Hering",
+				"given": "Daniel"
+			},
+			{
+				"family": "Moog",
+				"given": "Otto"
+			},
+			{
+				"family": "Verdonschot",
+				"given": "Piet"
+			},
+			{
+				"family": "Johnson",
+				"given": "Richard K."
+			},
+			{
+				"family": "Brabec",
+				"given": "Karel"
+			},
+			{
+				"family": "Gritzalis",
+				"given": "Kostas"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2006"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/14518388/items/4XVISXHF",
+		"type": "article-journal",
+		"container-title": "Hydrobiologia",
+		"DOI": "10.1007/s10750-022-04891-z",
+		"issue": "6",
+		"language": "en",
+		"page": "1263–1282",
+		"title": "The current state of eDNA research in freshwater ecosystems: Are we shifting from the developmental phase to standard application in biomonitoring?",
+		"URL": "https://doi.org/10.1007/s10750-022-04891-z",
+		"volume": "850",
+		"author": [
+			{
+				"family": "Schenekar",
+				"given": "Tamara"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2023"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/14518388/items/R6YF6IBW",
+		"type": "article-journal",
+		"container-title": "Ecological indicators",
+		"language": "en",
+		"page": "533–544",
+		"title": "A hitchhiker's guide to European lake ecological assessment and intercalibration",
+		"URL": "https://doi.org/10.1016/j.ecolind.2015.01.005",
+		"volume": "52",
+		"author": [
+			{
+				"family": "Poikane",
+				"given": "Sandra"
+			},
+			{
+				"family": "Birk",
+				"given": "Sebastian"
+			},
+			{
+				"family": "Böhmer",
+				"given": "Jürgen"
+			},
+			{
+				"family": "Carvalho",
+				"given": "Laurence"
+			},
+			{
+				"family": "Hoyos",
+				"given": "Caridad"
+			},
+			{
+				"family": "Gassner",
+				"given": "Hubert"
+			},
+			{
+				"family": "Hellsten",
+				"given": "Seppo"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2015"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/14518388/items/86Q7AV6F",
+		"type": "article-journal",
+		"container-title": "Frontiers in Ecology and Evolution",
+		"language": "en",
+		"page": "913279",
+		"title": "Similarities and differences in fish community composition accessed by electrofishing, gill netting, seining, trawling, and water eDNA metabarcoding in temperate reservoirs",
+		"volume": "10",
+		"author": [
+			{
+				"family": "Golpour",
+				"given": "Amin"
+			},
+			{
+				"family": "Šmejkal",
+				"given": "Marek"
+			},
+			{
+				"family": "Čech",
+				"given": "Martin"
+			},
+			{
+				"family": "Santos",
+				"given": "Rômulo A."
+			},
+			{
+				"family": "Souza",
+				"given": "Allan T."
+			},
+			{
+				"family": "Jůza",
+				"given": "Tomáš"
+			},
+			{
+				"family": "Martínez",
+				"given": "Carlos"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2022"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/14518388/items/RPPGN5FN",
+		"type": "article-journal",
+		"container-title": "Environmental Research",
+		"DOI": "https://doi.org/10.1016/j.envres.2022.113808",
+		"language": "en",
+		"page": "113808",
+		"title": "Threats, challenges and sustainable conservation strategies for freshwater biodiversity",
+		"volume": "214",
+		"author": [
+			{
+				"family": "Ahmed",
+				"given": "Shams Forruque"
+			},
+			{
+				"family": "Kumar",
+				"given": "P.Senthil"
+			},
+			{
+				"family": "Kabir",
+				"given": "Maliha"
+			},
+			{
+				"family": "Zuhara",
+				"given": "Fatema Tuz"
+			},
+			{
+				"family": "Mehjabin",
+				"given": "Aanushka"
+			},
+			{
+				"family": "Tasannum",
+				"given": "Nuzaba"
+			},
+			{
+				"family": "Hoang",
+				"given": "Anh Tuan"
+			},
+			{
+				"family": "Kabir",
+				"given": "Zobaidul"
+			},
+			{
+				"family": "Mofijur",
+				"given": "M."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2022"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/14518388/items/KIEZ5YXF",
+		"type": "article-journal",
+		"container-title": "Biological Reviews",
+		"issue": "1",
+		"language": "en",
+		"page": "205–226",
+		"title": "Bending the curve of global freshwater biodiversity loss: what are the prospects?",
+		"URL": "https://doi.org/10.1111/brv.13137",
+		"volume": "100",
+		"author": [
+			{
+				"family": "Dudgeon",
+				"given": "David"
+			},
+			{
+				"family": "Strayer",
+				"given": "David L."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2025"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/14518388/items/9VBSWG9U",
+		"type": "paper-conference",
+		"container-title": "2021 International Conference on Information and Communication Technology for Development for Africa (ICT4DA",
+		"language": "en",
+		"page": "154–159",
+		"publisher": "IEEE",
+		"title": "Rescuing the Fresh Water Lakes of Africa through the Use of Drones and Underwater Robots",
+		"author": [
+			{
+				"family": "Mekuria",
+				"given": "Fisseha"
+			},
+			{
+				"family": "Nigussie",
+				"given": "Ethiopia"
+			},
+			{
+				"family": "Schmitt",
+				"given": "Eva"
+			},
+			{
+				"family": "González",
+				"given": "Arturo"
+			},
+			{
+				"family": "Tegegne",
+				"given": "Tesfa"
+			},
+			{
+				"family": "Fettweis",
+				"given": "Gerhard"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2021"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/14518388/items/NAZWFTP2",
+		"type": "article-journal",
+		"container-title": "Freshwater Biology",
+		"DOI": "https://doi.org/10.1111/fwb.13831",
+		"issue": "1",
+		"language": "en",
+		"page": "1–13",
+		"title": "Arctic freshwater biodiversity: Establishing baselines, trends, and drivers of ecological change",
+		"volume": "67",
+		"author": [
+			{
+				"family": "Culp",
+				"given": "Joseph M."
+			},
+			{
+				"family": "Goedkoop",
+				"given": "Willem"
+			},
+			{
+				"family": "Christensen",
+				"given": "Tom"
+			},
+			{
+				"family": "Christoffersen",
+				"given": "Kirsten S."
+			},
+			{
+				"family": "Fefilova",
+				"given": "Elena"
+			},
+			{
+				"family": "Liljaniemi",
+				"given": "Petri"
+			},
+			{
+				"family": "Novichkova",
+				"given": "Anna A."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2022"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/14518388/items/Z2MSHWI4",
+		"type": "article-journal",
+		"container-title": "Conservation Letters",
+		"issue": "1",
+		"language": "en",
+		"page": "12771",
+		"title": "Safeguarding freshwater life beyond 2020: Recommendations for the new global biodiversity framework from the European experience",
+		"volume": "14",
+		"author": [
+			{
+				"literal": "Rees"
+			},
+			{
+				"family": "B.",
+				"given": "Charles"
+			},
+			{
+				"family": "Waylen",
+				"given": "Kerry A."
+			},
+			{
+				"family": "Schmidt‐Kloiber",
+				"given": "Astrid"
+			},
+			{
+				"family": "Thackeray",
+				"given": "Stephen J."
+			},
+			{
+				"family": "Kalinkat",
+				"given": "Gregor"
+			},
+			{
+				"family": "Martens",
+				"given": "Koen"
+			},
+			{
+				"family": "Domisch",
+				"given": "Sami"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2021"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/14518388/items/6E29DU28",
+		"type": "article-journal",
+		"container-title": "Biological Conservation",
+		"DOI": "10.1016/j.biocon.2009.03.016",
+		"issue": "9",
+		"language": "en",
+		"page": "1943–1949",
+		"title": "The impact of climate change on cherry trees and other species in Japan",
+		"volume": "142",
+		"author": [
+			{
+				"family": "Primack",
+				"given": "Richard B."
+			},
+			{
+				"family": "Higuchi",
+				"given": "Hiroyoshi"
+			},
+			{
+				"family": "Miller-Rushing",
+				"given": "Abraham J."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2009"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/14518388/items/RPF3NDWA",
+		"type": "article-journal",
+		"container-title": "Current Opinion in Environmental Sustainability",
+		"language": "en",
+		"page": "101435",
+		"title": "Biodiversity reporting: standardization, materiality, and assurance",
+		"URL": "https://doi.org/10.1016/j.cosust.2024.101435",
+		"volume": "68",
+		"author": [
+			{
+				"family": "Elliot",
+				"given": "Viktor"
+			},
+			{
+				"family": "Jonäll",
+				"given": "Kristina"
+			},
+			{
+				"family": "Paananen",
+				"given": "Mari"
+			},
+			{
+				"family": "Bebbington",
+				"given": "Jan"
+			},
+			{
+				"family": "Michelon",
+				"given": "Giovanna"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2024"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/14518388/items/PE6YR2VX",
+		"type": "article-journal",
+		"container-title": "Environmental DNA",
+		"DOI": "10.1002/edn3.425",
+		"issue": "3",
+		"language": "en",
+		"page": "613–623",
+		"title": "Fish survey project using environmental DNA",
+		"URL": "https://doi.org/10.1002/edn3.425",
+		"volume": "5",
+		"author": [
+			{
+				"family": "Suzuki‐Ohno",
+				"given": "Yukari"
+			},
+			{
+				"family": "Tanabe",
+				"given": "Akifumi S."
+			},
+			{
+				"family": "Kasai",
+				"given": "Akihide"
+			},
+			{
+				"family": "Masuda",
+				"given": "Reiji"
+			},
+			{
+				"family": "Seino",
+				"given": "Satoquo"
+			},
+			{
+				"family": "Dazai",
+				"given": "Akihiro"
+			},
+			{
+				"family": "Suzuki",
+				"given": "Shota"
+			},
+			{
+				"family": "Abe",
+				"given": "Takuzo"
+			},
+			{
+				"family": "Kondoh",
+				"given": "Michio"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2023"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/14518388/items/9BDT3V36",
+		"type": "article-journal",
+		"container-title": "eLife",
+		"language": "en",
+		"page": "93694",
+		"title": "Boosting biodiversity monitoring using smartphone-driven, rapidly accumulating community-sourced data",
+		"URL": "https://doi.org/10.7554/eLife.93694.3",
+		"volume": "13",
+		"author": [
+			{
+				"family": "Atsumi",
+				"given": "Keisuke"
+			},
+			{
+				"family": "Nishida",
+				"given": "Yuusuke"
+			},
+			{
+				"family": "Ushio",
+				"given": "Masayuki"
+			},
+			{
+				"family": "Nishi",
+				"given": "Hirotaka"
+			},
+			{
+				"family": "Genroku",
+				"given": "Takanori"
+			},
+			{
+				"family": "Fujiki",
+				"given": "Shogoro"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2024"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/14518388/items/BKIKP6R4",
+		"type": "article-journal",
+		"container-title": "Nature Communications",
+		"issue": "1",
+		"language": "en",
+		"page": "13604",
+		"title": "Anthropogenic impacts on mosquito populations in North America over the past century",
+		"URL": "https://doi.org/10.1038/ncomms13604",
+		"volume": "7",
+		"author": [
+			{
+				"family": "Rochlin",
+				"given": "Ilia"
+			},
+			{
+				"family": "Faraji",
+				"given": "Ary"
+			},
+			{
+				"family": "Ninivaggi",
+				"given": "Dominick V."
+			},
+			{
+				"family": "Barker",
+				"given": "Christopher M."
+			},
+			{
+				"family": "Kilpatrick",
+				"given": "A.Marm"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2016"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/14518388/items/NBQQX7GQ",
+		"type": "article-journal",
+		"container-title": "Philosophical Transactions of the Royal Society B: Biological Sciences",
+		"DOI": "10.1098/rstb.2004.1584",
+		"issue": "1454",
+		"language": "en",
+		"page": "289–295",
+		"title": "The Living Planet Index: using species population time series to track trends in biodiversity",
+		"URL": "https://doi.org/10.1098/rstb.2004.1584",
+		"volume": "360",
+		"author": [
+			{
+				"family": "Loh",
+				"given": "Jonathan"
+			},
+			{
+				"family": "Green",
+				"given": "Rhys E."
+			},
+			{
+				"family": "Ricketts",
+				"given": "Taylor"
+			},
+			{
+				"family": "Lamoreux",
+				"given": "John"
+			},
+			{
+				"family": "Jenkins",
+				"given": "Martin"
+			},
+			{
+				"family": "Kapos",
+				"given": "Valerie"
+			},
+			{
+				"family": "Randers",
+				"given": "Jorgen"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2005"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/14518388/items/NNQYYZ8T",
+		"type": "article-journal",
+		"container-title": "Science Advances",
+		"issue": "42",
+		"language": "en",
+		"page": "3542",
+		"title": "From green to red: Urban heat stress drives leaf color evolution",
+		"URL": "DOI: 10.1126/sciadv.abq3542",
+		"volume": "9",
+		"author": [
+			{
+				"family": "Fukano",
+				"given": "Yuya"
+			},
+			{
+				"family": "Yamori",
+				"given": "Wataru"
+			},
+			{
+				"family": "Misu",
+				"given": "Hayata"
+			},
+			{
+				"family": "Sato",
+				"given": "Mitsuhiko P."
+			},
+			{
+				"family": "Shirasawa",
+				"given": "Kenta"
+			},
+			{
+				"family": "Tachiki",
+				"given": "Yuuya"
+			},
+			{
+				"family": "Uchida",
+				"given": "Kei"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2023"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/14518388/items/2VAA7C4H",
+		"type": "document",
+		"language": "en",
+		"note": "DOI: 10.25607/Y60M-4329",
+		"title": "Ocean Decade Vision 2030 White Papers – Challenge 2: Protect and Restore Ecosystems and Biodiversity., UNESCO-IOC",
+		"URL": "https://doi.org/10.25607/Y60M-4329,",
+		"author": [
+			{
+				"family": "Muller-Karger",
+				"given": "F.E."
+			},
+			{
+				"family": "Hwai",
+				"given": "A.T.S."
+			},
+			{
+				"family": "al",
+				"given": "et"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2024"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/14518388/items/6V4NBPXL",
+		"type": "article-journal",
+		"container-title": "Ocean & Coastal Management",
+		"DOI": "10.1016/j.ocecoaman.2025.107542",
+		"language": "en",
+		"title": "Mind the gap - The need to integrate novel plankton methods alongside ongoing long-term monitoring",
+		"URL": "https://doi.org/10.1016/j.ocecoaman.2025.107542,",
+		"volume": "262, 107542",
+		"author": [
+			{
+				"family": "Holland",
+				"given": "M.M."
+			},
+			{
+				"family": "Artigas",
+				"given": "L.F."
+			},
+			{
+				"family": "Atkinson",
+				"given": "A."
+			},
+			{
+				"family": "Best",
+				"given": "M."
+			},
+			{
+				"family": "Bresnan",
+				"given": "E."
+			},
+			{
+				"family": "Devlin",
+				"given": "M."
+			},
+			{
+				"family": "Eerkes-Medrano",
+				"given": "D."
+			},
+			{
+				"family": "Johansen",
+				"given": "M."
+			},
+			{
+				"family": "Johns",
+				"given": "D.G."
+			},
+			{
+				"family": "Machairopoulou",
+				"given": "M."
+			},
+			{
+				"family": "Pitois",
+				"given": "S."
+			},
+			{
+				"family": "Scott",
+				"given": "J."
+			},
+			{
+				"family": "Schilder",
+				"given": "J."
+			},
+			{
+				"family": "Stern",
+				"given": "R."
+			},
+			{
+				"family": "Tait",
+				"given": "K."
+			},
+			{
+				"family": "Whyte",
+				"given": "C."
+			},
+			{
+				"family": "Widdicombe",
+				"given": "C."
+			},
+			{
+				"family": "McQuatters-Gollop",
+				"given": "A."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2025"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/14518388/items/5UHUSMDQ",
+		"type": "article-journal",
+		"container-title": "Ocean Coast. Res",
+		"DOI": "10.1590/2675-2824071.23109rk",
+		"language": "en",
+		"title": "Towards a distributed and operational pelagic imaging network",
+		"URL": "https://doi.org/10.1590/2675-2824071.23109rk,",
+		"volume": "71, e23058",
+		"author": [
+			{
+				"family": "Kiko",
+				"given": "R."
+			},
+			{
+				"family": "Lopes",
+				"given": "R.M."
+			},
+			{
+				"family": "Soviadan",
+				"given": "Y.D."
+			},
+			{
+				"family": "Stemmann",
+				"given": "L."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2023"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/14518388/items/4HUY568Q",
+		"type": "article-journal",
+		"container-title": "Mar. Sci",
+		"DOI": "10.3389/fmars.2019.00196",
+		"language": "en",
+		"title": "Globally Consistent Quantitative Observations of Planktonic Ecosystems, Front",
+		"URL": "https://doi.org/10.3389/fmars.2019.00196,",
+		"volume": "6, 196",
+		"author": [
+			{
+				"family": "Lombard",
+				"given": "F."
+			},
+			{
+				"family": "Boss",
+				"given": "E."
+			},
+			{
+				"family": "Waite",
+				"given": "A.M."
+			},
+			{
+				"family": "Vogt",
+				"given": "M."
+			},
+			{
+				"family": "Uitz",
+				"given": "J."
+			},
+			{
+				"family": "Stemmann",
+				"given": "L."
+			},
+			{
+				"family": "Sosik",
+				"given": "H.M."
+			},
+			{
+				"family": "Schulz",
+				"given": "J."
+			},
+			{
+				"family": "Romagnan",
+				"given": "J.-B."
+			},
+			{
+				"family": "Picheral",
+				"given": "M."
+			},
+			{
+				"family": "Pearlman",
+				"given": "J."
+			},
+			{
+				"family": "Ohman",
+				"given": "M.D."
+			},
+			{
+				"family": "Niehoff",
+				"given": "B."
+			},
+			{
+				"family": "Möller",
+				"given": "K.O."
+			},
+			{
+				"family": "Miloslavich",
+				"given": "P."
+			},
+			{
+				"family": "Lara-Lpez",
+				"given": "A."
+			},
+			{
+				"family": "Kudela",
+				"given": "R."
+			},
+			{
+				"family": "Lopes",
+				"given": "R.M."
+			},
+			{
+				"family": "Kiko",
+				"given": "R."
+			},
+			{
+				"family": "Karp-Boss",
+				"given": "L."
+			},
+			{
+				"family": "Jaffe",
+				"given": "J.S."
+			},
+			{
+				"family": "Iversen",
+				"given": "M.H."
+			},
+			{
+				"family": "Irisson",
+				"given": "J.-O."
+			},
+			{
+				"family": "Fennel",
+				"given": "K."
+			},
+			{
+				"family": "Hauss",
+				"given": "H."
+			},
+			{
+				"family": "Guidi",
+				"given": "L."
+			},
+			{
+				"family": "Gorsky",
+				"given": "G."
+			},
+			{
+				"family": "Giering",
+				"given": "S.L.C."
+			},
+			{
+				"family": "Gaube",
+				"given": "P."
+			},
+			{
+				"family": "Gallager",
+				"given": "S."
+			},
+			{
+				"family": "Dubelaar",
+				"given": "G."
+			},
+			{
+				"family": "Cowen",
+				"given": "R.K."
+			},
+			{
+				"family": "Carlotti",
+				"given": "F."
+			},
+			{
+				"family": "Briseño-Avena",
+				"given": "C."
+			},
+			{
+				"family": "Berline",
+				"given": "L."
+			},
+			{
+				"family": "Benoit-Bird",
+				"given": "K."
+			},
+			{
+				"family": "Bax",
+				"given": "N."
+			},
+			{
+				"family": "Batten",
+				"given": "S."
+			},
+			{
+				"family": "Ayata",
+				"given": "S.D."
+			},
+			{
+				"family": "Artigas",
+				"given": "L.F."
+			},
+			{
+				"family": "Appeltans",
+				"given": "W."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2019"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/14518388/items/DLBA3A7R",
+		"type": "article-journal",
+		"container-title": "ISME COMMUN",
+		"DOI": "10.1038/s43705-023-00308-7",
+		"language": "en",
+		"page": "1–9,",
+		"title": "Predicting global distributions of eukaryotic plankton communities from satellite data",
+		"URL": "https://doi.org/10.1038/s43705-023-00308-7,",
+		"volume": "3",
+		"author": [
+			{
+				"family": "Kaneko",
+				"given": "H."
+			},
+			{
+				"family": "Endo",
+				"given": "H."
+			},
+			{
+				"family": "Henry",
+				"given": "N."
+			},
+			{
+				"family": "Berney",
+				"given": "C."
+			},
+			{
+				"family": "Mahé",
+				"given": "F."
+			},
+			{
+				"family": "Poulain",
+				"given": "J."
+			},
+			{
+				"family": "Labadie",
+				"given": "K."
+			},
+			{
+				"family": "Beluche",
+				"given": "O."
+			},
+			{
+				"family": "El Hourany",
+				"given": "R."
+			},
+			{
+				"family": "Chaffron",
+				"given": "S."
+			},
+			{
+				"family": "Wincker",
+				"given": "P."
+			},
+			{
+				"family": "Nakamura",
+				"given": "R."
+			},
+			{
+				"family": "Karp-Boss",
+				"given": "L."
+			},
+			{
+				"family": "Boss",
+				"given": "E."
+			},
+			{
+				"family": "Bowler",
+				"given": "Chris"
+			},
+			{
+				"family": "Vargas",
+				"given": "C."
+			},
+			{
+				"family": "Tomii",
+				"given": "K."
+			},
+			{
+				"family": "Ogata",
+				"given": "H."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2023"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/14518388/items/2H2CGV2D",
+		"type": "article-journal",
+		"container-title": "Mar. Sci",
+		"DOI": "10.3389/fmars.2022.949428",
+		"language": "da",
+		"title": "PlanktoScope: Affordable Modular Quantitative Imaging Platform for Citizen Oceanography, Front",
+		"URL": "https://doi.org/10.3389/fmars.2022.949428,",
+		"volume": "9",
+		"author": [
+			{
+				"family": "Pollina",
+				"given": "T."
+			},
+			{
+				"family": "Larson",
+				"given": "A.G."
+			},
+			{
+				"family": "Lombard",
+				"given": "F."
+			},
+			{
+				"family": "Li",
+				"given": "H."
+			},
+			{
+				"family": "Le Guen",
+				"given": "D."
+			},
+			{
+				"family": "Colin",
+				"given": "S."
+			},
+			{
+				"family": "Vargas",
+				"given": "C."
+			},
+			{
+				"family": "Prakash",
+				"given": "M."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2022"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/14518388/items/ESGLPXZX",
+		"type": "article-journal",
+		"container-title": "The Time is Right to Expand Biological Measurements in Ocean Observing Programs, Limnology & Oceanogr Bull",
+		"DOI": "10.1002/lob.10243",
+		"language": "en",
+		"page": "89–90,",
+		"title": "Beyond Chlorophyll Fluorescence",
+		"URL": "https://doi.org/10.1002/lob.10243,",
+		"volume": "27",
+		"author": [
+			{
+				"family": "Boss",
+				"given": "E."
+			},
+			{
+				"family": "Waite",
+				"given": "A."
+			},
+			{
+				"family": "Muller‐Karger",
+				"given": "F."
+			},
+			{
+				"family": "Yamazaki",
+				"given": "H."
+			},
+			{
+				"family": "Wanninkhof",
+				"given": "R."
+			},
+			{
+				"family": "Uitz",
+				"given": "J."
+			},
+			{
+				"family": "Thomalla",
+				"given": "S."
+			},
+			{
+				"family": "Sosik",
+				"given": "H."
+			},
+			{
+				"family": "Sloyan",
+				"given": "B."
+			},
+			{
+				"family": "Richardson",
+				"given": "A."
+			},
+			{
+				"family": "Miloslavich",
+				"given": "P."
+			},
+			{
+				"family": "Karstensen",
+				"given": "J."
+			},
+			{
+				"family": "Grégori",
+				"given": "G."
+			},
+			{
+				"family": "Fennel",
+				"given": "K."
+			},
+			{
+				"family": "Claustre",
+				"given": "H."
+			},
+			{
+				"family": "Cornejo",
+				"given": "M."
+			},
+			{
+				"family": "Berman‐Frank",
+				"given": "I."
+			},
+			{
+				"family": "Batten",
+				"given": "S."
+			},
+			{
+				"family": "Acinas",
+				"given": "S."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2018"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/14518388/items/9IE56EKG",
+		"type": "article-journal",
+		"container-title": "Ecography",
+		"DOI": "10.1111/ecog.05926",
+		"language": "en",
+		"page": "1259–1269",
+		"title": "Sampling biases shape our view of the natural world",
+		"URL": "https://doi.org/10.1111/ecog.05926",
+		"volume": "44",
+		"author": [
+			{
+				"family": "Hughes",
+				"given": "A.C."
+			},
+			{
+				"family": "Orr",
+				"given": "M.C."
+			},
+			{
+				"family": "Ma",
+				"given": "K."
+			},
+			{
+				"family": "Costello",
+				"given": "M.J."
+			},
+			{
+				"family": "Waller",
+				"given": "J."
+			},
+			{
+				"family": "Provoost",
+				"given": "P."
+			},
+			{
+				"family": "Yang",
+				"given": "Q."
+			},
+			{
+				"family": "Zhu",
+				"given": "C."
+			},
+			{
+				"family": "Qiao",
+				"given": "H."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2021"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/14518388/items/CDLY3DSQ",
+		"type": "article-journal",
+		"container-title": "Biol Rev",
+		"DOI": "10.1111/brv.13127",
+		"language": "en",
+		"page": "50–67",
+		"title": "Treating gaps and biases in biodiversity data as a missing data problem",
+		"URL": "https://doi.org/10.1111/brv.13127",
+		"volume": "100",
+		"author": [
+			{
+				"family": "Bowler",
+				"given": "D.E."
+			},
+			{
+				"family": "Boyd",
+				"given": "R.J."
+			},
+			{
+				"family": "Callaghan",
+				"given": "C.T."
+			},
+			{
+				"family": "Robinson",
+				"given": "R.A."
+			},
+			{
+				"family": "Isaac",
+				"given": "N.J.B."
+			},
+			{
+				"family": "Pocock",
+				"given": "M.J.O."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2025"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/14518388/items/CX43WBAU",
+		"type": "article-journal",
+		"container-title": "Nat Ecol Evol",
+		"DOI": "10.1038/s41559-019-0826-1",
+		"language": "en",
+		"page": "539–551",
+		"title": "Essential biodiversity variables for mapping and monitoring species populations",
+		"URL": "https://doi.org/10.1038/s41559-019-0826-1",
+		"volume": "3",
+		"author": [
+			{
+				"family": "Jetz",
+				"given": "W."
+			},
+			{
+				"family": "McGeoch",
+				"given": "M.A."
+			},
+			{
+				"family": "Guralnick",
+				"given": "R."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2019"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/14518388/items/N7KYCSPB",
+		"type": "article-journal",
+		"container-title": "Nat Ecol Evol",
+		"DOI": "10.1038/s41559-022-01737-8",
+		"language": "en",
+		"page": "709–719",
+		"title": "Forest degradation drives widespread avian habitat and population declines",
+		"URL": "https://doi.org/10.1038/s41559-022-01737-8",
+		"volume": "6",
+		"author": [
+			{
+				"family": "Betts",
+				"given": "M.G."
+			},
+			{
+				"family": "Yang",
+				"given": "Z."
+			},
+			{
+				"family": "Hadley",
+				"given": "A.S."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2022"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/14518388/items/37RXS3KD",
+		"type": "article-journal",
+		"container-title": "Conservation Letters",
+		"issue": "5",
+		"language": "en",
+		"page": "13038",
+		"title": "Biodiversity monitoring in Europe: User and policy needs",
+		"URL": "https://doi.org/10.1111/conl.13038",
+		"volume": "17",
+		"author": [
+			{
+				"family": "Moersberger",
+				"given": "H."
+			},
+			{
+				"family": "Valdez",
+				"given": "J."
+			},
+			{
+				"family": "Martin",
+				"given": "J.G."
+			},
+			{
+				"family": "Junker",
+				"given": "J."
+			},
+			{
+				"family": "Georgieva",
+				"given": "I."
+			},
+			{
+				"family": "Bauer",
+				"given": "S."
+			},
+			{
+				"family": "Bonn",
+				"given": "A."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2024"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/14518388/items/IZXKHQE4",
+		"type": "article-journal",
+		"container-title": "Nature Conservation",
+		"language": "en",
+		"page": "57–78",
+		"title": "Current status of habitat monitoring in the European Union according to Article 17 of the Habitats Directive, with an emphasis on habitat structure and functions and on Germany",
+		"URL": "https://doi.org/10.3897/natureconservation.29.27273",
+		"volume": "29",
+		"author": [
+			{
+				"family": "Ellwanger",
+				"given": "G."
+			},
+			{
+				"family": "Runge",
+				"given": "S."
+			},
+			{
+				"family": "Wagner",
+				"given": "M."
+			},
+			{
+				"family": "Ackermann",
+				"given": "W."
+			},
+			{
+				"family": "Neukirchen",
+				"given": "M."
+			},
+			{
+				"family": "Frederking",
+				"given": "W."
+			},
+			{
+				"family": "Sukopp",
+				"given": "U."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2018"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/14518388/items/XN25YTDY",
+		"type": "article-journal",
+		"container-title": "Biological Conservation",
+		"DOI": "10.1016/j.biocon.2016.07.014",
+		"language": "en",
+		"page": "256–263",
+		"title": "Global biodiversity monitoring: from data sources to essential biodiversity variables",
+		"volume": "213",
+		"author": [
+			{
+				"family": "Proença",
+				"given": "V."
+			},
+			{
+				"family": "Martin",
+				"given": "L.J."
+			},
+			{
+				"family": "Pereira",
+				"given": "H.M."
+			},
+			{
+				"family": "Fernandez",
+				"given": "M."
+			},
+			{
+				"family": "McRae",
+				"given": "L."
+			},
+			{
+				"family": "Belnap",
+				"given": "J."
+			},
+			{
+				"family": "Swaay",
+				"given": "C.A."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2017"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/14518388/items/EQUCL3FP",
+		"type": "article-journal",
+		"container-title": "Global Ecology and Biogeography",
+		"issue": "4",
+		"language": "en",
+		"page": "13804",
+		"title": "Remote sensing biodiversity monitoring in Latin America: Emerging need for sustained local research and regional collaboration to achieve global goals",
+		"volume": "33",
+		"author": [
+			{
+				"family": "Garzon‐Lopez",
+				"given": "C.X."
+			},
+			{
+				"family": "Miranda",
+				"given": "A."
+			},
+			{
+				"family": "Moya",
+				"given": "D."
+			},
+			{
+				"family": "Andreo",
+				"given": "V."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2024"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/14518388/items/HYB9DRBT",
+		"type": "article-journal",
+		"container-title": "Bulletin of Marine Science",
+		"language": "mg",
+		"page": "819–829",
+		"title": "The Caribbean coastal marine productivity program (CARICOMP",
+		"volume": "69",
+		"author": [
+			{
+				"family": "Alcolado",
+				"given": "P."
+			},
+			{
+				"family": "Alleng",
+				"given": "G."
+			},
+			{
+				"family": "Bonair",
+				"given": "K."
+			},
+			{
+				"family": "Bone",
+				"given": "D."
+			},
+			{
+				"family": "Buchan",
+				"given": "K."
+			},
+			{
+				"family": "Bush",
+				"given": "P."
+			},
+			{
+				"family": "Meyer",
+				"given": "K."
+			},
+			{
+				"family": "Garcia",
+				"given": "J."
+			},
+			{
+				"family": "Garzón-Ferreira",
+				"given": "J."
+			},
+			{
+				"family": "Gayle",
+				"given": "P."
+			},
+			{
+				"family": "Gerace",
+				"given": "D."
+			},
+			{
+				"family": "Geraldes",
+				"given": "F."
+			},
+			{
+				"family": "Jordán-Dahlgren",
+				"given": "E."
+			},
+			{
+				"family": "Kjferve",
+				"given": "B."
+			},
+			{
+				"family": "Klein",
+				"given": "E."
+			},
+			{
+				"family": "Koltes",
+				"given": "K."
+			},
+			{
+				"family": "Laydoo",
+				"given": "R."
+			},
+			{
+				"family": "Linton",
+				"given": "D."
+			},
+			{
+				"family": "Ogden",
+				"given": "J."
+			},
+			{
+				"family": "Zieman",
+				"given": "J."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2001"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/14518388/items/8P6URPAP",
+		"type": "paper-conference",
+		"container-title": "Conference: 8th International Coral Reef Symposium.Volume: Proceedings of 8th International Coral Reef Symposium",
+		"language": "en",
+		"page": "641–646",
+		"title": "Caribbean Coastal Marine Productivity (CARICOMP): A research and monitoring network of marine laboratories, parks, and reserves",
+		"volume": "1",
+		"author": [
+			{
+				"family": "Ogden",
+				"given": "J."
+			},
+			{
+				"family": "Alcolado",
+				"given": "P."
+			},
+			{
+				"family": "Alleng",
+				"given": "G."
+			},
+			{
+				"family": "K.",
+				"given": "Bonair"
+			},
+			{
+				"family": "Laydoo",
+				"given": "R."
+			},
+			{
+				"family": "Bone",
+				"given": "D."
+			},
+			{
+				"family": "Klein",
+				"given": "E."
+			},
+			{
+				"family": "Penchaszadeh",
+				"given": "P."
+			},
+			{
+				"family": "Buchan",
+				"given": "K."
+			},
+			{
+				"family": "Walker",
+				"given": "S."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1997"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/14518388/items/XR99DKRK",
+		"type": "paper-conference",
+		"container-title": "Proceedings of the 65th Gulf and Caribbean Fisheries Institute. November 5",
+		"event-place": "Santa Marta, Colombia",
+		"language": "en",
+		"page": "– 9,",
+		"publisher-place": "Santa Marta, Colombia",
+		"title": "Common Socio-economic Monitoring Indicators for Caribbean Challenge MPAs",
+		"author": [
+			{
+				"family": "Pena",
+				"given": "M."
+			},
+			{
+				"family": "McConney",
+				"given": "P."
+			},
+			{
+				"family": "Blackman",
+				"given": "K."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2013"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/14518388/items/I6C299K5",
+		"type": "article-journal",
+		"container-title": "Scientific data",
+		"DOI": "10.1038/s41597-023-02832-6",
+		"issue": "19",
+		"language": "en",
+		"title": "The bii4africa dataset of faunal and floral population intactness estimates across Africa’s major land uses",
+		"URL": "https://doi.org/10.1038/s41597-023-02832-6",
+		"volume": "11",
+		"author": [
+			{
+				"literal": "Clements"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2024"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/14518388/items/IUL7JGN8",
+		"type": "article-journal",
+		"container-title": "South African Journal of Science",
+		"DOI": "10.17159/sajs.2021/8134",
+		"issue": "1/2",
+		"language": "en",
+		"title": "Snapshot Safari: A large-scale collaborative to monitor Africa’s remarkable biodiversity",
+		"URL": "https://doi.org/10.17159/sajs.2021/8134",
+		"volume": "117",
+		"author": [
+			{
+				"family": "Pardo",
+				"given": "L.E."
+			},
+			{
+				"family": "Bombaci",
+				"given": "S."
+			},
+			{
+				"family": "Huebner",
+				"given": "S.E."
+			},
+			{
+				"family": "Somers",
+				"given": "M.J."
+			},
+			{
+				"family": "Fritz",
+				"given": "H."
+			},
+			{
+				"family": "Guthmann",
+				"given": "A."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2021"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/14518388/items/U853XB5T",
+		"type": "article-journal",
+		"container-title": "Journal ofApplied Ecology",
+		"DOI": "10.1111/1365-2664.14742",
+		"language": "en",
+		"page": "2470–2482",
+		"title": "local ecological knowledge with camera traps to assess the link between African mammal life-history traits and their occurrence in anthropogenic landscapes",
+		"URL": "https://doi.org/10.1111/1365-2664.14742",
+		"volume": "61",
+		"author": [
+			{
+				"family": "Bernard",
+				"given": "A."
+			},
+			{
+				"family": "Guerbois",
+				"given": "C."
+			},
+			{
+				"family": "Moolman",
+				"given": "L."
+			},
+			{
+				"family": "Morney",
+				"given": "M.A."
+			},
+			{
+				"family": "Venter",
+				"given": "J.A."
+			},
+			{
+				"family": "Fritz",
+				"given": "H."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2024"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/14518388/items/ZZ488N48",
+		"type": "article-journal",
+		"container-title": "Land Use Policy",
+		"DOI": "10/gdzc6c",
+		"language": "en",
+		"page": "577–588",
+		"title": "Spatial aggregation of indicators in sustainability assessments: Descriptive and normative claims",
+		"URL": "https://doi.org/10/gdzc6c",
+		"volume": "76",
+		"author": [
+			{
+				"family": "Allain",
+				"given": "S."
+			},
+			{
+				"family": "Plumecocq",
+				"given": "G."
+			},
+			{
+				"family": "Leenhardt",
+				"given": "D."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2018"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/14518388/items/U57DW5XA",
+		"type": "article-journal",
+		"container-title": "Environmental and Ecological Statistics",
+		"DOI": "10.1007/s10651-012-0202-7",
+		"issue": "4",
+		"language": "en",
+		"page": "601–626",
+		"title": "How should regional biodiversity be monitored?",
+		"URL": "https://doi.org/10.1007/s10651-012-0202-7",
+		"volume": "19",
+		"author": [
+			{
+				"family": "Buckland",
+				"given": "S.T."
+			},
+			{
+				"family": "Baillie",
+				"given": "S.R."
+			},
+			{
+				"family": "Dick",
+				"given": "J.McP"
+			},
+			{
+				"family": "Elston",
+				"given": "D.A."
+			},
+			{
+				"family": "Magurran",
+				"given": "A.E."
+			},
+			{
+				"family": "Scott",
+				"given": "E.M."
+			},
+			{
+				"family": "Smith",
+				"given": "R.I."
+			},
+			{
+				"family": "Somerfield",
+				"given": "P.J."
+			},
+			{
+				"family": "Studeny",
+				"given": "A.C."
+			},
+			{
+				"family": "Watt",
+				"given": "A."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2012"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/14518388/items/H4F36XTD",
+		"type": "article-journal",
+		"container-title": "Ecological Indicators",
+		"DOI": "10.1016/j.ecolind.2021.108376",
+		"language": "en",
+		"page": "108376",
+		"title": "Selection criteria for ecosystem condition indicators",
+		"URL": "https://doi.org/10.1016/j.ecolind.2021.108376",
+		"volume": "133",
+		"author": [
+			{
+				"family": "Czúcz",
+				"given": "B."
+			},
+			{
+				"family": "Keith",
+				"given": "H."
+			},
+			{
+				"family": "Maes",
+				"given": "J."
+			},
+			{
+				"family": "Driver",
+				"given": "A."
+			},
+			{
+				"family": "Jackson",
+				"given": "B."
+			},
+			{
+				"family": "Nicholson",
+				"given": "E."
+			},
+			{
+				"family": "Kiss",
+				"given": "M."
+			},
+			{
+				"family": "Obst",
+				"given": "C."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2021"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/14518388/items/TGGRJZCP",
+		"type": "article-journal",
+		"container-title": "Psychological Science",
+		"DOI": "10.1177/0956797618792256",
+		"issue": "11",
+		"language": "en",
+		"page": "1846–1858",
+		"title": "The Binary Bias: A Systematic Distortion in the Integration of Information",
+		"URL": "https://doi.org/10.1177/0956797618792256",
+		"volume": "29",
+		"author": [
+			{
+				"family": "Fisher",
+				"given": "M."
+			},
+			{
+				"family": "Keil",
+				"given": "F.C."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2018"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/14518388/items/934Y7CNL",
+		"type": "article-journal",
+		"container-title": "Ecological Economics",
+		"DOI": "10.1016/j.ecolecon.2015.01.003",
+		"language": "en",
+		"page": "23–28",
+		"title": "Valuing map validation: The need for rigorous land cover map accuracy assessment in economic valuations of ecosystem services",
+		"URL": "https://doi.org/10.1016/j.ecolecon.2015.01.003",
+		"volume": "111",
+		"author": [
+			{
+				"family": "Foody",
+				"given": "G.M."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2015"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/14518388/items/8EJKE4TR",
+		"type": "article-journal",
+		"container-title": "Cogent Environmental Science",
+		"DOI": "10.1080/23311843.2016.1214228",
+		"issue": "1",
+		"language": "en",
+		"page": "1214228",
+		"title": "A research process and criteria–indicators framework for developing indigenous freshwater ecosystem health monitoring",
+		"URL": "https://doi.org/10.1080/23311843.2016.1214228",
+		"volume": "2",
+		"author": [
+			{
+				"family": "Gratani",
+				"given": "M."
+			},
+			{
+				"family": "Royee",
+				"given": "F."
+			},
+			{
+				"family": "Butler",
+				"given": "J.R.A."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2016"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/14518388/items/VCCEJ2GV",
+		"type": "article-journal",
+		"container-title": "Ecological Indicators",
+		"DOI": "10.1016/j.ecolind.2009.09.009",
+		"issue": "3",
+		"language": "en",
+		"page": "584–593",
+		"title": "What are indicators? On the definition of indicators in ecology and environmental planning",
+		"URL": "https://doi.org/10.1016/j.ecolind.2009.09.009",
+		"volume": "10",
+		"author": [
+			{
+				"family": "Heink",
+				"given": "U."
+			},
+			{
+				"family": "Kowarik",
+				"given": "I."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2010"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/14518388/items/B7V7JL3D",
+		"type": "article-journal",
+		"container-title": "Biodiversity and Conservation",
+		"DOI": "10.1007/s10531-010-9926-6",
+		"issue": "13",
+		"language": "en",
+		"page": "3769–3797",
+		"title": "What criteria should be used to select biodiversity indicators?",
+		"URL": "https://doi.org/10.1007/s10531-010-9926-6",
+		"volume": "19",
+		"author": [
+			{
+				"family": "Heink",
+				"given": "U."
+			},
+			{
+				"family": "Kowarik",
+				"given": "I."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2010"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/14518388/items/KHD37GDE",
+		"type": "article-journal",
+		"container-title": "International Journal of Human-Computer Studies",
+		"DOI": "10.1016/j.ijhcs.2020.102562",
+		"language": "lb",
+		"page": "102562",
+		"title": "Talking datasets – Understanding data sensemaking behaviours",
+		"URL": "https://doi.org/10.1016/j.ijhcs.2020.102562",
+		"volume": "146",
+		"author": [
+			{
+				"family": "Koesten",
+				"given": "L."
+			},
+			{
+				"family": "Gregory",
+				"given": "K."
+			},
+			{
+				"family": "Groth",
+				"given": "P."
+			},
+			{
+				"family": "Simperl",
+				"given": "E."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2021"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/14518388/items/MVUGCFN9",
+		"type": "article-journal",
+		"container-title": "Environment and Society",
+		"DOI": "10.3167/ares.2017.080105",
+		"issue": "1",
+		"language": "en",
+		"page": "96–124",
+		"title": "The metrics of making ecosystem services",
+		"volume": "8",
+		"author": [
+			{
+				"family": "McElwee",
+				"given": "P."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2017"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/14518388/items/HCZJSW3L",
+		"type": "article-journal",
+		"container-title": "Ecological Indicators",
+		"DOI": "10.1016/j.ecolind.2017.09.028",
+		"language": "en",
+		"page": "546–552",
+		"title": "The need for validation of ecological indices",
+		"URL": "https://doi.org/10.1016/j.ecolind.2017.09.028",
+		"volume": "84",
+		"author": [
+			{
+				"family": "Moriarty",
+				"given": "P.E."
+			},
+			{
+				"family": "Hodgson",
+				"given": "E.E."
+			},
+			{
+				"family": "Froehlich",
+				"given": "H.E."
+			},
+			{
+				"family": "Hennessey",
+				"given": "S.M."
+			},
+			{
+				"family": "Marshall",
+				"given": "K.N."
+			},
+			{
+				"family": "Oken",
+				"given": "K.L."
+			},
+			{
+				"family": "Siple",
+				"given": "M.C."
+			},
+			{
+				"family": "Ko",
+				"given": "S."
+			},
+			{
+				"family": "Koehn",
+				"given": "L.E."
+			},
+			{
+				"family": "Pierce",
+				"given": "B.D."
+			},
+			{
+				"family": "Stawitz",
+				"given": "C.C."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2018"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/14518388/items/3N3EFP4A",
+		"type": "paper-conference",
+		"container-title": "Proceedings of the 2017 ACM Conference on Computer Supported Cooperative Work and Social Computing",
+		"DOI": "10.1145/2998181.2998331",
+		"language": "en",
+		"page": "2436–2447",
+		"title": "Data Vision: Learning to See Through Algorithmic Abstraction",
+		"URL": "https://doi.org/10.1145/2998181.2998331",
+		"author": [
+			{
+				"family": "Passi",
+				"given": "S."
+			},
+			{
+				"family": "Jackson",
+				"given": "S."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2017"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/14518388/items/W2CHK6RF",
+		"type": "paper-conference",
+		"container-title": "Proceedings of the 33rd Annual ACM Conference on Human Factors in Computing Systems",
+		"DOI": "10.1145/2702123.2702298",
+		"language": "en",
+		"page": "3147–3156",
+		"title": "The Politics of Measurement and Action",
+		"URL": "https://doi.org/10.1145/2702123.2702298",
+		"author": [
+			{
+				"family": "Pine",
+				"given": "K.H."
+			},
+			{
+				"family": "Liboiron",
+				"given": "M."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2015"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/14518388/items/SGBTUW8T",
+		"type": "article-journal",
+		"container-title": "The Forestry Chronicle",
+		"DOI": "10.5558/tfc80082-1",
+		"issue": "1",
+		"language": "en",
+		"page": "82–90",
+		"title": "Guiding principles for developing an indicator and monitoring framework",
+		"URL": "https://doi.org/10.5558/tfc80082-1",
+		"volume": "80",
+		"author": [
+			{
+				"family": "Rempel",
+				"given": "R.S."
+			},
+			{
+				"family": "Andison",
+				"given": "D.W."
+			},
+			{
+				"family": "Hannon",
+				"given": "S.J."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2004"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/14518388/items/CDRDEAM4",
+		"type": "article-journal",
+		"container-title": "Ecological Indicators",
+		"DOI": "10.1016/j.ecolind.2011.07.007",
+		"issue": "1",
+		"language": "en",
+		"page": "202–208",
+		"title": "Desirable mathematical properties of indicators for biodiversity change",
+		"URL": "https://doi.org/10.1016/j.ecolind.2011.07.007",
+		"volume": "14",
+		"author": [
+			{
+				"family": "Strien",
+				"given": "A.J."
+			},
+			{
+				"family": "Soldaat",
+				"given": "L.L."
+			},
+			{
+				"family": "Gregory",
+				"given": "R.D."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2012"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/14518388/items/ZD8YEUKE",
+		"type": "article-journal",
+		"container-title": "Environment and Planning E: Nature and Space",
+		"DOI": "10.1177/25148486241248012",
+		"issue": "4",
+		"language": "en",
+		"page": "1647–1671",
+		"title": "Limits to measurement: Rethinking the role of monitoring in environmental governance",
+		"URL": "https://doi.org/10.1177/25148486241248012",
+		"volume": "7",
+		"author": [
+			{
+				"family": "Tadaki",
+				"given": "M."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2024"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/14518388/items/3GUIPWJK",
+		"type": "article-journal",
+		"container-title": "New Zealand Geographer",
+		"DOI": "10.1111/nzg.12325",
+		"issue": "1",
+		"language": "en",
+		"page": "37–50",
+		"title": "Decolonising cultural environmental monitoring in Aotearoa New Zealand: Emerging risks with institutionalisation and how to navigate them",
+		"URL": "https://doi.org/10.1111/nzg.12325",
+		"volume": "78",
+		"author": [
+			{
+				"family": "Tadaki",
+				"given": "M."
+			},
+			{
+				"family": "Astwood",
+				"given": "J.-R."
+			},
+			{
+				"family": "Ataria",
+				"given": "J."
+			},
+			{
+				"family": "Black",
+				"given": "M."
+			},
+			{
+				"family": "Clapcott",
+				"given": "J."
+			},
+			{
+				"family": "Harmsworth",
+				"given": "G."
+			},
+			{
+				"family": "Kitson",
+				"given": "J."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2022"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/14518388/items/BH92Q6CM",
+		"type": "article-journal",
+		"container-title": "Journal of Environmental Management",
+		"DOI": "10.1016/j.jenvman.2017.05.029",
+		"language": "en",
+		"page": "13–20",
+		"title": "Category mistakes: A barrier to effective environmental management",
+		"URL": "https://doi.org/10.1016/j.jenvman.2017.05.029",
+		"volume": "199",
+		"author": [
+			{
+				"family": "Wallace",
+				"given": "K.J."
+			},
+			{
+				"family": "Jago",
+				"given": "M."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2017"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/14518388/items/3J3SQ3FZ",
+		"type": "article-journal",
+		"abstract": "Marine plankton support global biological and geochemical processes. Surveys of their biodiversity have hitherto been geographically restricted and have not accounted for the full range of plankton size. We assessed eukaryotic diversity from 334 size-fractionated photic-zone plankton communities collected across tropical and temperate oceans during the circumglobal\n              Tara\n              Oceans expedition. We analyzed 18\n              S\n              ribosomal DNA sequences across the intermediate plankton-size spectrum from the smallest unicellular eukaryotes (protists, >0.8 micrometers) to small animals of a few millimeters. Eukaryotic ribosomal diversity saturated at ~150,000 operational taxonomic units, about one-third of which could not be assigned to known eukaryotic groups. Diversity emerged at all taxonomic levels, both within the groups comprising the ~11,200 cataloged morphospecies of eukaryotic plankton and among twice as many other deep-branching lineages of unappreciated importance in plankton ecology studies. Most eukaryotic plankton biodiversity belonged to heterotrophic protistan groups, particularly those known to be parasites or symbiotic hosts.",
+		"container-title": "Science",
+		"DOI": "10.1126/science.1261605",
+		"ISSN": "0036-8075, 1095-9203",
+		"issue": "6237",
+		"journalAbbreviation": "Science",
+		"language": "en",
+		"license": "http://www.sciencemag.org/about/science-licenses-journal-article-reuse",
+		"page": "1261605",
+		"source": "DOI.org (Crossref)",
+		"title": "Eukaryotic plankton diversity in the sunlit ocean",
+		"URL": "https://www.science.org/doi/10.1126/science.1261605",
+		"volume": "348",
+		"author": [
+			{
+				"family": "De Vargas",
+				"given": "Colomban"
+			},
+			{
+				"family": "Audic",
+				"given": "Stéphane"
+			},
+			{
+				"family": "Henry",
+				"given": "Nicolas"
+			},
+			{
+				"family": "Decelle",
+				"given": "Johan"
+			},
+			{
+				"family": "Mahé",
+				"given": "Frédéric"
+			},
+			{
+				"family": "Logares",
+				"given": "Ramiro"
+			},
+			{
+				"family": "Lara",
+				"given": "Enrique"
+			},
+			{
+				"family": "Berney",
+				"given": "Cédric"
+			},
+			{
+				"family": "Le Bescot",
+				"given": "Noan"
+			},
+			{
+				"family": "Probert",
+				"given": "Ian"
+			},
+			{
+				"family": "Carmichael",
+				"given": "Margaux"
+			},
+			{
+				"family": "Poulain",
+				"given": "Julie"
+			},
+			{
+				"family": "Romac",
+				"given": "Sarah"
+			},
+			{
+				"family": "Colin",
+				"given": "Sébastien"
+			},
+			{
+				"family": "Aury",
+				"given": "Jean-Marc"
+			},
+			{
+				"family": "Bittner",
+				"given": "Lucie"
+			},
+			{
+				"family": "Chaffron",
+				"given": "Samuel"
+			},
+			{
+				"family": "Dunthorn",
+				"given": "Micah"
+			},
+			{
+				"family": "Engelen",
+				"given": "Stefan"
+			},
+			{
+				"family": "Flegontova",
+				"given": "Olga"
+			},
+			{
+				"family": "Guidi",
+				"given": "Lionel"
+			},
+			{
+				"family": "Horák",
+				"given": "Aleš"
+			},
+			{
+				"family": "Jaillon",
+				"given": "Olivier"
+			},
+			{
+				"family": "Lima-Mendez",
+				"given": "Gipsi"
+			},
+			{
+				"family": "Lukeš",
+				"given": "Julius"
+			},
+			{
+				"family": "Malviya",
+				"given": "Shruti"
+			},
+			{
+				"family": "Morard",
+				"given": "Raphael"
+			},
+			{
+				"family": "Mulot",
+				"given": "Matthieu"
+			},
+			{
+				"family": "Scalco",
+				"given": "Eleonora"
+			},
+			{
+				"family": "Siano",
+				"given": "Raffaele"
+			},
+			{
+				"family": "Vincent",
+				"given": "Flora"
+			},
+			{
+				"family": "Zingone",
+				"given": "Adriana"
+			},
+			{
+				"family": "Dimier",
+				"given": "Céline"
+			},
+			{
+				"family": "Picheral",
+				"given": "Marc"
+			},
+			{
+				"family": "Searson",
+				"given": "Sarah"
+			},
+			{
+				"family": "Kandels-Lewis",
+				"given": "Stefanie"
+			},
+			{
+				"literal": "Tara Oceans Coordinators"
+			},
+			{
+				"family": "Acinas",
+				"given": "Silvia G."
+			},
+			{
+				"family": "Bork",
+				"given": "Peer"
+			},
+			{
+				"family": "Bowler",
+				"given": "Chris"
+			},
+			{
+				"family": "Gorsky",
+				"given": "Gabriel"
+			},
+			{
+				"family": "Grimsley",
+				"given": "Nigel"
+			},
+			{
+				"family": "Hingamp",
+				"given": "Pascal"
+			},
+			{
+				"family": "Iudicone",
+				"given": "Daniele"
+			},
+			{
+				"family": "Not",
+				"given": "Fabrice"
+			},
+			{
+				"family": "Ogata",
+				"given": "Hiroyuki"
+			},
+			{
+				"family": "Pesant",
+				"given": "Stephane"
+			},
+			{
+				"family": "Raes",
+				"given": "Jeroen"
+			},
+			{
+				"family": "Sieracki",
+				"given": "Michael E."
+			},
+			{
+				"family": "Speich",
+				"given": "Sabrina"
+			},
+			{
+				"family": "Stemmann",
+				"given": "Lars"
+			},
+			{
+				"family": "Sunagawa",
+				"given": "Shinichi"
+			},
+			{
+				"family": "Weissenbach",
+				"given": "Jean"
+			},
+			{
+				"family": "Wincker",
+				"given": "Patrick"
+			},
+			{
+				"family": "Karsenti",
+				"given": "Eric"
+			},
+			{
+				"family": "Boss",
+				"given": "Emmanuel"
+			},
+			{
+				"family": "Follows",
+				"given": "Michael"
+			},
+			{
+				"family": "Karp-Boss",
+				"given": "Lee"
+			},
+			{
+				"family": "Krzic",
+				"given": "Uros"
+			},
+			{
+				"family": "Reynaud",
+				"given": "Emmanuel G."
+			},
+			{
+				"family": "Sardet",
+				"given": "Christian"
+			},
+			{
+				"family": "Sullivan",
+				"given": "Matthew B."
+			},
+			{
+				"family": "Velayoudon",
+				"given": "Didier"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2025",
+					2,
+					14
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2015",
+					5,
+					22
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/14518388/items/L9QUKXGD",
+		"type": "article-journal",
+		"abstract": "In every liter of seawater there are between 10 and 100 billion life forms, mostly invisible, called marine plankton or marine microbiome, which form the largest and most dynamic ecosystem on our planet, at the heart of global ecological and economic processes. While physical and chemical parameters of planktonic ecosystems are fairly well measured and modeled at the planetary scale, biological data are still scarce due to the extreme cost and relative inflexibility of the classical vessels and instruments used to explore marine biodiversity. Here we introduce ‘Plankton Planet’, an initiative whose goal is to engage the curiosity and creativity of researchers, makers, and mariners to (\n              i\n              ) co-develop a new generation of cost-effective (frugal) universal scientific instrumentation to measure the genetic and morphological diversity of marine microbiomes in context, (\n              ii\n              ) organize their systematic deployment through coastal or open ocean communities of sea-users/farers, to generate uniform plankton data across global and long-term spatio-temporal scales, and (\n              iii\n              ) setup tools to flow the data without embargo into public and explorable databases. As proof-of-concept, we show how 20 crews of sailors were able to sample plankton biomass from the world surface ocean in a single year, generating the first seatizen-based, planetary dataset of marine plankton biodiversity based on DNA barcodes. The quality of this dataset is comparable to that generated by\n              Tara\n              Oceans and is not biased by the multiplication of samplers. The data unveil significant genetic novelty and can be used to explore the taxonomic and ecological diversity of plankton at both regional and global scales. This pilot project paves the way for construction of a miniaturized, modular, evolvable, affordable and open-source citizen field-platform that will allow systematic assessment of the eco/morpho/genetic variation of aquatic ecosystems and microbiomes across the dimensions of the Earth system.",
+		"container-title": "Frontiers in Marine Science",
+		"DOI": "10.3389/fmars.2022.936972",
+		"ISSN": "2296-7745",
+		"journalAbbreviation": "Front. Mar. Sci.",
+		"page": "936972",
+		"source": "DOI.org (Crossref)",
+		"title": "Plankton Planet: A frugal, cooperative measure of aquatic life at the planetary scale",
+		"title-short": "Plankton Planet",
+		"URL": "https://www.frontiersin.org/articles/10.3389/fmars.2022.936972/full",
+		"volume": "9",
+		"author": [
+			{
+				"family": "De Vargas",
+				"given": "Colomban"
+			},
+			{
+				"family": "Le Bescot",
+				"given": "Noan"
+			},
+			{
+				"family": "Pollina",
+				"given": "Thibaut"
+			},
+			{
+				"family": "Henry",
+				"given": "Nicolas"
+			},
+			{
+				"family": "Romac",
+				"given": "Sarah"
+			},
+			{
+				"family": "Colin",
+				"given": "Sébastien"
+			},
+			{
+				"family": "Haëntjens",
+				"given": "Nils"
+			},
+			{
+				"family": "Carmichael",
+				"given": "Margaux"
+			},
+			{
+				"family": "Berger",
+				"given": "Calixte"
+			},
+			{
+				"family": "Le Guen",
+				"given": "David"
+			},
+			{
+				"family": "Decelle",
+				"given": "Johan"
+			},
+			{
+				"family": "Mahé",
+				"given": "Frédéric"
+			},
+			{
+				"family": "Poulain",
+				"given": "Julie"
+			},
+			{
+				"family": "Malpot",
+				"given": "Emmanuel"
+			},
+			{
+				"family": "Beaumont",
+				"given": "Carole"
+			},
+			{
+				"family": "Hardy",
+				"given": "Michel"
+			},
+			{
+				"family": "Guiffant",
+				"given": "Damien"
+			},
+			{
+				"family": "Probert",
+				"given": "Ian"
+			},
+			{
+				"family": "Gruber",
+				"given": "David F."
+			},
+			{
+				"family": "Allen",
+				"given": "Andrew E."
+			},
+			{
+				"family": "Gorsky",
+				"given": "Gabriel"
+			},
+			{
+				"family": "Follows",
+				"given": "Michael J."
+			},
+			{
+				"family": "Pochon",
+				"given": "Xavier"
+			},
+			{
+				"family": "Troublé",
+				"given": "Romain"
+			},
+			{
+				"family": "Cael",
+				"given": "B. B."
+			},
+			{
+				"family": "Lombard",
+				"given": "Fabien"
+			},
+			{
+				"family": "Boss",
+				"given": "Emmanuel"
+			},
+			{
+				"family": "Prakash",
+				"given": "Manu"
+			},
+			{
+				"literal": "the Plankton Planet core team"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2025",
+					2,
+					14
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2022",
+					8,
+					17
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/14518388/items/SXSANMV2",
+		"type": "article-journal",
+		"container-title": "Journal of Environmental Management",
+		"DOI": "10.1016/j.jenvman.2009.05.012",
+		"ISSN": "03014797",
+		"issue": "11",
+		"journalAbbreviation": "Journal of Environmental Management",
+		"language": "en",
+		"license": "https://www.elsevier.com/tdm/userlicense/1.0/",
+		"page": "3205-3211",
+		"source": "DOI.org (Crossref)",
+		"title": "Monitoring in adaptive co-management: Toward a learning based approach",
+		"title-short": "Monitoring in adaptive co-management",
+		"URL": "https://linkinghub.elsevier.com/retrieve/pii/S0301479709001510",
+		"volume": "90",
+		"author": [
+			{
+				"family": "Cundill",
+				"given": "Georgina"
+			},
+			{
+				"family": "Fabricius",
+				"given": "Christo"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2025",
+					2,
+					14
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2009",
+					8
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/14518388/items/MPKBRSK9",
+		"type": "report",
+		"abstract": "ABSTRACTBiosphere Expeditions citizen scientists supported Lilongwe Wildlife Trust (LWT) research projects for a fourth time, between 17 and 29 September 2023, conducting the following research activities:Elephant herd sightings and dung sampling: In recent years, human-elephant conflict has become an increasing threat to people’s livelihoods, but also for the local elephant population. A new fence was constructed in 2021 along the southern and eastern boundaries of Vwaza Marsh Wildlife Reserve (VMWR), aiming to keep elephants within the reserve and reduce conflict. Participants counted 218 elephants in 22 sightings (5 of single bulls, 17 of herds). A larger proportion of adult individuals was observed during this expedition compared to the previous year (68% and 51% respectively). Additionally, ID profiles for 17 elephants were created (6 bulls and 11 matriarchs) to aid in future monitoring of natality and mortality. 28 dung samples were collected ad lib around camp and Lake Kazuni to evaluate diet. No cultivated food items were found in the samples, indicating that the fence is still sufficient at preventing elephant outbreaks in VMWR southern regions.Hippo transects: VMWR is the only protected area in Malawi’s northern region to host a stable hippo population. However, no consistent monitoring of their populations is being done. As Lake Kazuni and the adjacent South Rukuru River are the only perennial water sources in the reserve, the majority of the population should be concentrated there. Four transects were completed along the northern shore of the Lake, during which a total of 446 hippos were counted. The largest count during a transect consisted of 133 hippos. Only one transect could be completed in a single session, during which the count was 120. Hippo counts were similar to the previous expedition year, indicating no substantial change in their population.Camera trapping: Camera trapping is used worldwide as a non-intrusive remote monitoring method, particularly for elusive and cryptic species that are difficult to monitor through older, more conventional methods. 14 camera traps were deployed and captured 648 pictures of animals over 168 capture days. A total of 22 species were identified from the camera trap footage. Elephants were captured most frequently, and a noteworthy increase in leopard captures was observed during this expedition. Hyaena call-ins: Spotted hyaenas are the most abundant and widespread large carnivore in Africa. However, their conservation status is often overlooked; they can influence other species’ populations and can serve as indicators of ecosystem health. Call-ins via audio playback to attract animals are a commonly used method to estimate hyaena populations. Two call-in events were conducted at baited sites and camera traps deployed to monitor hyaena activity after departure. No hyaenas were observed during the call-ins, nor were vocalisations in response to the call-ins recorded. One leopard was attracted to the bait two days after the call-in event.iNaturalist: iNaturalist is an online platform and application compiling evidence-based observations of organisms globally, making the data publicly accessible to researchers. As VMWR remains relatively understudied, iNaturalist provides simple comparison of species capture rates across the years. Participants uploaded a total of 144 observations of 102 different species, with birds and mammals constituting the largest proportion (47% and 19% respectively).",
+		"language": "en",
+		"license": "Creative Commons Attribution 4.0 International",
+		"note": "DOI: 10.5281/ZENODO.13223683",
+		"publisher": "Zenodo",
+		"source": "DOI.org (Datacite)",
+		"title": "From elephants to cats to ants: Monitoring biodiversity of Vwaza Marsh Wildlife Reserve, Malawi (September 2023)",
+		"title-short": "From elephants to cats to ants",
+		"URL": "https://zenodo.org/doi/10.5281/zenodo.13223683",
+		"author": [
+			{
+				"family": "Hintz",
+				"given": "Benjamin"
+			},
+			{
+				"family": "Hammer",
+				"given": "Matthias"
+			},
+			{
+				"family": "Hammer",
+				"given": "Sophie"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2025",
+					2,
+					14
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2024",
+					8,
+					5
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/14518388/items/5MJL4UB3",
+		"type": "chapter",
+		"container-title": "A Research Agenda for Environmental Geopolitics",
+		"ISBN": "978-1-78897-124-9",
+		"note": "DOI: 10.4337/9781788971249.00008",
+		"publisher": "Edward Elgar Publishing",
+		"source": "DOI.org (Crossref)",
+		"title": "Getting the measure of nature: the inconspicuous geopolitics of environmental measurement",
+		"title-short": "Getting the measure of nature",
+		"URL": "https://china.elgaronline.com/view/edcoll/9781788971232/9781788971232.00008.xml",
+		"editor": [
+			{
+				"family": "O’Lear",
+				"given": "Shannon"
+			}
+		],
+		"author": [
+			{
+				"family": "Blue",
+				"given": "Brendon"
+			},
+			{
+				"family": "Tadaki",
+				"given": "Marc"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2025",
+					2,
+					14
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2020",
+					2,
+					3
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/14518388/items/98CW4I5F",
+		"type": "book",
+		"event-place": "LU",
+		"language": "eng",
+		"publisher": "Publications Office",
+		"publisher-place": "LU",
+		"source": "DOI.org (CSL JSON)",
+		"title": "Earth observation in support of EU policies for biodiversity :a deep dive assessment of the Knowledge Centre on Earth Observation.",
+		"title-short": "Earth observation in support of EU policies for biodiversity",
+		"URL": "https://data.europa.eu/doi/10.2760/444512",
+		"author": [
+			{
+				"literal": "European Commission. Joint Research Centre."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2025",
+					2,
+					14
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2023"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/14518388/items/VNXJPHTY",
+		"type": "article-journal",
+		"abstract": "Recognizing culture, and diverse sources of knowledge, can improve assessments\n          , \n            \n              A major challenge today and into the future is to maintain or enhance beneficial contributions of nature to a good quality of life for all people. This is among the key motivations of the Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services (IPBES), a joint global effort by governments, academia, and civil society to assess and promote knowledge of Earth's biodiversity and ecosystems and their contribution to human societies in order to inform policy formulation. One of the more recent key elements of the IPBES conceptual framework (\n              1\n              ) is the notion of nature's contributions to people (NCP), which builds on the ecosystem service concept popularized by the Millennium Ecosystem Assessment (MA) (\n              2\n              ). But as we detail below, NCP as defined and put into practice in IPBES differs from earlier work in several important ways. First, the NCP approach recognizes the central and pervasive role that culture plays in defining all links between people and nature. Second, use of NCP elevates, emphasizes, and operationalizes the role of indigenous and local knowledge in understanding nature's contribution to people.",
+		"container-title": "Science",
+		"DOI": "10.1126/science.aap8826",
+		"ISSN": "0036-8075, 1095-9203",
+		"issue": "6373",
+		"journalAbbreviation": "Science",
+		"language": "en",
+		"license": "http://www.sciencemag.org/about/science-licenses-journal-article-reuse",
+		"page": "270-272",
+		"source": "DOI.org (Crossref)",
+		"title": "Assessing nature's contributions to people",
+		"URL": "https://www.science.org/doi/10.1126/science.aap8826",
+		"volume": "359",
+		"author": [
+			{
+				"family": "Díaz",
+				"given": "Sandra"
+			},
+			{
+				"family": "Pascual",
+				"given": "Unai"
+			},
+			{
+				"family": "Stenseke",
+				"given": "Marie"
+			},
+			{
+				"family": "Martín-López",
+				"given": "Berta"
+			},
+			{
+				"family": "Watson",
+				"given": "Robert T."
+			},
+			{
+				"family": "Molnár",
+				"given": "Zsolt"
+			},
+			{
+				"family": "Hill",
+				"given": "Rosemary"
+			},
+			{
+				"family": "Chan",
+				"given": "Kai M. A."
+			},
+			{
+				"family": "Baste",
+				"given": "Ivar A."
+			},
+			{
+				"family": "Brauman",
+				"given": "Kate A."
+			},
+			{
+				"family": "Polasky",
+				"given": "Stephen"
+			},
+			{
+				"family": "Church",
+				"given": "Andrew"
+			},
+			{
+				"family": "Lonsdale",
+				"given": "Mark"
+			},
+			{
+				"family": "Larigauderie",
+				"given": "Anne"
+			},
+			{
+				"family": "Leadley",
+				"given": "Paul W."
+			},
+			{
+				"family": "Van Oudenhoven",
+				"given": "Alexander P. E."
+			},
+			{
+				"family": "Van Der Plaat",
+				"given": "Felice"
+			},
+			{
+				"family": "Schröter",
+				"given": "Matthias"
+			},
+			{
+				"family": "Lavorel",
+				"given": "Sandra"
+			},
+			{
+				"family": "Aumeeruddy-Thomas",
+				"given": "Yildiz"
+			},
+			{
+				"family": "Bukvareva",
+				"given": "Elena"
+			},
+			{
+				"family": "Davies",
+				"given": "Kirsten"
+			},
+			{
+				"family": "Demissew",
+				"given": "Sebsebe"
+			},
+			{
+				"family": "Erpul",
+				"given": "Gunay"
+			},
+			{
+				"family": "Failler",
+				"given": "Pierre"
+			},
+			{
+				"family": "Guerra",
+				"given": "Carlos A."
+			},
+			{
+				"family": "Hewitt",
+				"given": "Chad L."
+			},
+			{
+				"family": "Keune",
+				"given": "Hans"
+			},
+			{
+				"family": "Lindley",
+				"given": "Sarah"
+			},
+			{
+				"family": "Shirayama",
+				"given": "Yoshihisa"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2025",
+					2,
+					14
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2018",
+					1,
+					19
+				]
+			]
+		}
+	}
+]
