@@ -24,23 +24,53 @@ library(dplyr)
 
 In this report, we introduce a method to create a comprehensive literature corpus by tracing networks of cited knowledge. We start with **key references provided by the authors** and link them to additional metadata (using openalexR). From these initial references, the search is expanded to include related publications through a network-based approach (snowballing, using the oa_snowball() function). This results in a broader collection of highly relevant literature.
 
-Unlike standard keyword searches in databases like Web of Science, this approach builds a curated, up-to-date resource of key publications **directly related to the authors' field** and their chapters. The full corpus is saved and **can be filtered and searched,** as well as **explored interactively**, offering an intuitive way to browse and discover relevant research.
+Unlike standard keyword searches in databases like Web of Science, this approach builds a curated, up-to-date resource of key publications **directly related to the authors field** and their chapters. The full corpus is saved and **can be filtered and searched,** as well as **explored interactively**, offering an intuitive way to browse and discover relevant research.
 
 ## Chapter 1
 
+
 ```{r}
+#| label: load_key_works
+
+fns <- list.files(
+	file.path(".", "data"),
+	pattern = ".*_seed_works.rds",
+	recursive = TRUE,
+	full.names = TRUE
+) |>
+	sort()
 
 fn <- file.path(".", "data", "1_Chapter","chapter1_seed_works.rds")
-if (file.exists(fn)) {
-    key_works <- readRDS(fn)
+if (length(fns) == 4) {
+    key_works <- lapply(
+							fns,
+	  						FUN = readRDS
+				 )
+	names(key_works) <- basename(fns) # probably extract only the chapter number?
 } else {
-    seeds <- fromJSON(file.path(".", "input", "1_Chapter","chapter1_seed.json"))
+	seeds <- list.files(
+		file.path(".", "input"),
+		pattern = ".*_seed.json",
+		recursive = TRUE,
+		full.names = TRUE
+	) |>
+		sort() |>
+		lappy(
+			FUN = fromJSON
+		)
+		
+    # seeds <- fromJSON(file.path(".", "input", "1_Chapter","chapter1_seed.json"))
     #seeds$DOI[is.na(seeds$DOI)]  <- seeds$URL[is.na(seeds$DOI)] 
-    key_works <- oa_fetch(
-        entity = "works",
-        doi=seeds$DOI[!is.na(seeds$DOI)],
-        verbose = TRUE
-    )
+    key_works <- lapply(
+		seeds,
+		function(seed){
+			oa_fetch(
+        		entity = "works",
+        		doi=seeds$DOI[!is.na(seeds$DOI)],
+        		verbose = TRUE
+    		)
+		}
+	)
     saveRDS(key_works, fn)
 }
 
